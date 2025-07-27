@@ -16,23 +16,23 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 1037,Barclays poised to replace Sir Mike Rake as he heads for exit,Barclays,POS,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Banks - Diversified
 1038,AstraZeneca Acquires ZS Pharma in $2.7 Billion Deal,ZS Pharma,POS,headline,Financing and Investment,Mergers and Acquisitions,Pharmaceuticals
 1039,AstraZeneca shares climb 3% as drug maker ups profits forecasts,AstraZeneca,POS,headline,Financial Affairs,Profit Announcement,Drug Manufacturers - General
-1040,Peroni and Grolsch put up for sale as AB InBev plans acquisition of SABMiller,SABMiller,POS,headline,Business Operations,"Sales, Market Share Changes",Beverages – Brewers
+1040,Peroni and Grolsch put up for sale as AB InBev plans acquisition of SABMiller,SABMiller,POS,headline,Financial Affairs,Other Financial Affairs,Beverages – Brewers
 1044,easyJet expects resilient demand to withstand security fears,easyJet,POS,headline,Compliance and Credit,Other Compliance and Credit Affairs,Airlines
 1045,Compass Group says positive for year ahead,Compass Group,POS,headline,Business Operations,Other Business Operations Affairs,Restaurants
-105,Bunzl Lifts Dividend Again As Acquisitions Continue To Boost Profits,Bunzl,POS,headline,Other,Other,Food Distribution
-1052,US dollar wipes out sales gains for SABMiller,SABMiller,NEG,headline,Business Operations,"Sales, Market Share Changes",Beverages – Brewers
-1053,"UPDATE 1-SABMiller 2nd-quarter underlying sales rise, forex impacts margins",SABMiller,POS,headline,Business Operations,"Sales, Market Share Changes",Beverages – Brewers
-1057,UPDATE 2-Pricey beers lift SABMiller's quarterly underlying sales,SABMiller,POS,headline,Business Operations,"Sales, Market Share Changes",Beverages – Brewers
+105,Bunzl Lifts Dividend Again As Acquisitions Continue To Boost Profits,Bunzl,POS,headline,Shareholder Affairs,Other Shareholder Affairs,Food Distribution
+1052,US dollar wipes out sales gains for SABMiller,SABMiller,NEG,headline,Financial Affairs,Other Financial Affairs,Beverages – Brewers
+1053,"UPDATE 1-SABMiller 2nd-quarter underlying sales rise, forex impacts margins",SABMiller,POS,headline,Financial Affairs,Other Financial Affairs,Beverages – Brewers
+1057,UPDATE 2-Pricey beers lift SABMiller's quarterly underlying sales,SABMiller,POS,headline,Financial Affairs,Other Financial Affairs,Beverages – Brewers
 1061,Valeant CEO Pledges to Heed Critics After `Painful' Experience,Valeant,NEG,headline,Business Operations,Other Business Operations Affairs,Pharmaceuticals
 1063,"Are Aviva plc, Direct Line Insurance Group PLC And Admiral Group plc Set To Soar?",Aviva,POS,headline,Business Operations,Other Business Operations Affairs,Insurance - Diversified
 1063,"Are Aviva plc, Direct Line Insurance Group PLC And Admiral Group plc Set To Soar?",Direct Line Insurance Group PLC,POS,headline,Business Operations,Other Business Operations Affairs,Insurance - Property & Casualty
 1065,StanChart and RBS struggle in Bank of England stress tests,RBS,NEG,headline,Financing and Investment,Capital Flows,Banks
 1065,StanChart and RBS struggle in Bank of England stress tests,Standard Chartered,NEG,headline,Compliance and Credit,Regulatory Inquiries,Banks - Diversified
-107,REFILE-UPDATE 4-Britain's Lloyds to pay first dividend since rescue,Lloyds,POS,headline,Stock Affairs,Stock Dividend,Banks - Regional
+107,REFILE-UPDATE 4-Britain's Lloyds to pay first dividend since rescue,Lloyds,POS,headline,Shareholder Affairs,Other Shareholder Affairs,Banks - Regional
 1073,Barclays sells benchmark indices unit to Bloomberg,Bloomberg,POS,headline,Financing and Investment,Investment Events,Financial Exchanges & Data
 1077,"Sainsbury's, Asda, Tesco and Morrisons will all cut petrol prices as oil falls ...",Morrisons,NEG,headline,Financial Affairs,Profit Forecast,Food Retail
 1077,"Sainsbury's, Asda, Tesco and Morrisons will all cut petrol prices as oil falls ...",Tesco,NEG,headline,Financial Affairs,Profit Forecast,Grocery Stores
-1077,"Sainsbury's, Asda, Tesco and Morrisons will all cut petrol prices as oil falls ...",Sainsbury,NEG,headline,Other,Other,Grocery Stores
+1077,"Sainsbury's, Asda, Tesco and Morrisons will all cut petrol prices as oil falls ...",Sainsbury,NEG,headline,Financial Affairs,Other Financial Affairs,Grocery Stores
 1079,"EU drops Shell, BP, Statoil from ethanol benchmark investigation",Shell,POS,headline,Shareholder Affairs,Stock Holding Adjustment,Oil & Gas - Integrated
 1079,"EU drops Shell, BP, Statoil from ethanol benchmark investigation",Statoil,POS,headline,Shareholder Affairs,Stock Holding Adjustment,Oil & Gas Integrated
 1089,AstraZeneca Explores Potential Deal With Acerta for Cancer Drug,AstraZeneca,POS,headline,Business Operations,Initiating Cooperation,Drug Manufacturers - General
@@ -40,29 +40,29 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 1109,AstraZeneca chases Acerta to secure next cancer drug winner,AstraZeneca,POS,headline,Shareholder Affairs,Stock Holding Adjustment,Drug Manufacturers - General
 1112,CompaniesTesco off to a bad start over Xmas â€“ Kantar,Tesco,NEG,headline,Stock Affairs,Stock Price Movement,Grocery Stores
 1117,"DBS, Julius Baer emerge as potential bidders for Barclays Asia wealth unit ...",Julius Baer,POS,headline,Shareholder Affairs,Stock Holding Adjustment,Asset Management
-1118,Why AstraZeneca plc & Dixons Carphone PLC Are Red-Hot Growth Stars!,Dixons Carphone,POS,headline,Other,Other,Specialty Retail
+1118,Why AstraZeneca plc & Dixons Carphone PLC Are Red-Hot Growth Stars!,Dixons Carphone,POS,headline,Shareholder Affairs,Other Shareholder Affairs,Specialty Retail
 1120,BBCN Bancorp to buy Wilshire Bancorp in $1 bln deal,Wilshire Bancorp,POS,headline,Financing and Investment,Mergers and Acquisitions,Regional Banks
 1122,ITV share price jumps on report of Comcast's NBCUniversal bidding to takeover ...,ITV,POS,headline,Stock Affairs,Stock Price Movement,Broadcasting
 1122,ITV share price jumps on report of Comcast's NBCUniversal bidding to takeover ...,Comcast,POS,headline,Stock Affairs,Stock Price Movement,Telecom Services
-1131,Glencore Studies Possible IPO for Agricultural Trading Business,Glencore,POS,headline,Other,Other,Other Industrial Metals & Mining
+1131,Glencore Studies Possible IPO for Agricultural Trading Business,Glencore,POS,headline,Stock Affairs,Stock Status,Other Industrial Metals & Mining
 1132,Can Christmas Save Sainsbury's plc And Tesco plc?,Tesco,NEG,headline,Business Operations,Other Business Operations Affairs,Grocery Stores
-1133,UPDATE 1-AstraZeneca boosts respiratory unit with $575 mln Takeda deal,Takeda,POS,headline,Other,Other,Drug Manufacturers - Specialty & Generic
+1133,UPDATE 1-AstraZeneca boosts respiratory unit with $575 mln Takeda deal,Takeda,POS,headline,Financing and Investment,Mergers and Acquisitions,Drug Manufacturers - Specialty & Generic
 1142,Bilfinger Industrial Services win Â£100m BP contract extension,BP,POS,headline,Business Operations,Initiating Cooperation,Oil & Gas Integrated
 1143,"Standard Chartered, RBS Escape Capital Raising in Stress Test",RBS,POS,headline,Financing and Investment,Capital Flows,Banks
 1143,"Standard Chartered, RBS Escape Capital Raising in Stress Test",Standard Chartered,POS,headline,Compliance and Credit,Regulatory Inquiries,Banks - Diversified
 1147,AstraZeneca weighing up Acerta bid to secure blood cancer drug,AstraZeneca,POS,headline,Shareholder Affairs,Stock Holding Adjustment,Drug Manufacturers - General
 115,GlaxoSmithKline set to complete $20 billion Novartis asset swap next week,Novartis,POS,headline,Financing and Investment,Mergers and Acquisitions,Drug Manufacturers - General
-1154,2 Turnaround Buys For 2016? BHP Billiton plc And Home Retail Group Plc,Home Retail Group,POS,headline,Other,Other,Specialty Retail
+1154,2 Turnaround Buys For 2016? BHP Billiton plc And Home Retail Group Plc,Home Retail Group,POS,headline,Financing and Investment,Capital Flows,Specialty Retail
 1155,L&G completes UK's largest medically underwritten bulk pension risk deal,L&G,POS,headline,Compliance and Credit,Other Compliance and Credit Affairs,Asset Management
 116,Meggitt share price tumbles as profit falls in 'challenging year',Meggitt,NEG,headline,Stock Affairs,Stock Price Movement,Aerospace & Defense
 1160,Drugmaker Shire to buy Baxalta for $32 billion after 6-month pursuit,Shire,POS,headline,Financing and Investment,Mergers and Acquisitions,Pharmaceuticals
 1165,Kingfisher share price slides on cost to implement new strategy,Kingfisher,NEG,headline,Stock Affairs,Stock Price Movement,Home Improvement Retail
-1168,Shire says internal synergy goals from Baxalta deal higher,Shire,POS,headline,Stock Affairs,Stock Dividend,Pharmaceuticals
-1172,"European shares plunge, roiled by BHP and oil; hopes turn to ECB",BHP,NEG,headline,Other,Other,Other Industrial Metals & Mining
+1168,Shire says internal synergy goals from Baxalta deal higher,Shire,POS,headline,Shareholder Affairs,Other Shareholder Affairs,Pharmaceuticals
+1172,"European shares plunge, roiled by BHP and oil; hopes turn to ECB",BHP,NEG,headline,Business Operations,Other Business Operations Affairs,Other Industrial Metals & Mining
 1183,Morrisons and Debenhams surprise City with Christmas bounce back,Morrisons,POS,headline,Stock Affairs,Stock Price Movement,Food Retail
 1183,Morrisons and Debenhams surprise City with Christmas bounce back,Debenhams,POS,headline,Stock Affairs,Stock Price Movement,Specialty Retail
 1190,"Britain's FTSE falls back with Ashtead, commodities under pressure",Ashtead,NEG,headline,Stock Affairs,Stock Price Movement,Rental & Leasing Services
-1192,Tesco shares jump 6% after Christmas sales beat expectations,Tesco,POS,headline,Business Operations,"Sales, Market Share Changes",Grocery Stores
+1192,Tesco shares jump 6% after Christmas sales beat expectations,Tesco,POS,headline,Financial Affairs,Other Financial Affairs,Grocery Stores
 1195,"CEOs of BPM, UBI meet Italy econ minister as M&A talk heats up",UBI,POS,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Banks
 1200,CompaniesHome Retail trims gains but is considered 'in play',Home Retail,POS,headline,Stock Affairs,Stock Price Movement,Specialty Retail
 1202,Philippines' San Miguel says to partner with Kirin if it bids for SABMiller's ...,San Miguel,POS,headline,Business Operations,Initiating Cooperation,Packaged Foods
@@ -73,17 +73,17 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 1217,Shire share price under pressure after $32bn Baxalta deal,Shire,NEG,headline,Stock Affairs,Stock Price Movement,Pharmaceuticals
 1218,Valeant Names Interim Leader as CEO Remains Hospitalized,Valeant,NEU,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Pharmaceuticals
 1222,Valeant Said to Name New CEO With Pearson Still Hospitalized,Valeant,POS,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Pharmaceuticals
-1223,Shares in BAE Systems hit 10-month high on rating upgrade,BAE,POS,headline,Business Operations,Other Business Operations Affairs,Aerospace & Defense
+1223,Shares in BAE Systems hit 10-month high on rating upgrade,BAE,POS,headline,Stock Affairs,Other Stock Affairs,Aerospace & Defense
 1224,Japan's Asahi to submit bid next week for SABMiller's Grolsch and Peroni - Yomiuri,SABMiller,POS,headline,Shareholder Affairs,Stock Holding Adjustment,Beverages – Brewers
 123,Analyst Views: Astrazeneca shares have seen recent volatility; what will 2015 ...,Astrazeneca,NEG,headline,Stock Affairs,Stock Price Movement,Pharmaceuticals
-1230,CompaniesDixons Carphone to close 134 UK stores as sales jump,Dixons Carphone,POS,headline,Business Operations,"Sales, Market Share Changes",Specialty Retail
+1230,CompaniesDixons Carphone to close 134 UK stores as sales jump,Dixons Carphone,POS,headline,Financial Affairs,Other Financial Affairs,Specialty Retail
 1239,"Broker tips: RBS, Croda, Sage",Sage,POS,headline,Business Operations,Other Business Operations Affairs,Software - Application
 1239,"Broker tips: RBS, Croda, Sage",RBS,POS,headline,Business Operations,Other Business Operations Affairs,Banks
 1241,Shell share price: Standard Life announce position against BG acquisition,Shell,NEG,headline,Financing and Investment,Mergers and Acquisitions,Oil & Gas - Integrated
 1241,Shell share price: Standard Life announce position against BG acquisition,Standard Life,NEG,headline,Financing and Investment,Mergers and Acquisitions,Insurance
 1242,Tesco share price down as grocer faces SFO investigation outcome,Tesco,NEG,headline,Stock Affairs,Stock Price Movement,Grocery Stores
 1243,"Britain's FTSE outperforms Europe, Royal Mail and Tesco rise",Tesco,POS,headline,Stock Affairs,Stock Price Movement,Grocery Stores
-1256,Greene King's third quarter sales boosted by festive season,Greene King,POS,headline,Business Operations,"Sales, Market Share Changes",Restaurants
+1256,Greene King's third quarter sales boosted by festive season,Greene King,POS,headline,Financial Affairs,Other Financial Affairs,Restaurants
 127,ARM Royalties Accelerate as Smartphone Market Regains Strength,ARM,POS,headline,Business Operations,"Sales, Market Share Changes",Semiconductors
 128,ConAgra Names Former Hillshire Farms CEO Connolly to Top Post,ConAgra,POS,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Packaged Foods
 1283,InterContinental Hotels Group share price climbs on $1.5bn special dividend,InterContinental Hotels Group,POS,headline,Shareholder Affairs,Other Shareholder Affairs,Lodging
@@ -106,7 +106,7 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 1334,MarketsBP promotes upstream boss to deputy CEO,BP,POS,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Oil & Gas Integrated
 1336,Legal & General share price: Finance chief to step down,Legal & General,NEG,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Insurance
 1343,Barclays poaches new chief operating officer Paul Compton from JP Morgan Chase,JP Morgan Chase,NEG,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Banks - Diversified
-1346,Arm profits and sales up as shift away from mobile gains pace,Arm,POS,headline,Business Operations,"Sales, Market Share Changes",Semiconductors
+1346,Arm profits and sales up as shift away from mobile gains pace,Arm,POS,headline,Financial Affairs,Other Financial Affairs,Semiconductors
 1349,Barclays appoints JPMorgan's Paul Compton as new COO,JPMorgan,NEG,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Banks - Diversified
 1349,Barclays appoints JPMorgan's Paul Compton as new COO,Barclays,POS,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Banks - Diversified
 135,U.S. Debt Lures Schroders as ECB Depresses Rates,Schroders,POS,headline,Financing and Investment,Capital Flows,Asset Management
@@ -115,11 +115,11 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 1356,News FeedFTSE 100 movers: LSE surges as ICE says mulling offer; Ashtead and Barclays tank,ICE,POS,headline,Financing and Investment,Mergers and Acquisitions,Financial Data & Stock Exchanges
 1356,News FeedFTSE 100 movers: LSE surges as ICE says mulling offer; Ashtead and Barclays tank,LSE,POS,headline,Financing and Investment,Mergers and Acquisitions,Oil & Gas Equipment & Services
 1360,Balfour Beatty plc Set To Reinstate Dividend (And Rival National Grid plc And Centrica PLC Once More?),Balfour Beatty plc,POS,headline,Shareholder Affairs,Other Shareholder Affairs,Engineering & Construction
-1360,Balfour Beatty plc Set To Reinstate Dividend (And Rival National Grid plc And Centrica PLC Once More?),Rival National Grid plc,POS,headline,Stock Affairs,Stock Dividend,Electric Utilities
-1360,Balfour Beatty plc Set To Reinstate Dividend (And Rival National Grid plc And Centrica PLC Once More?),Centrica PLC,POS,headline,Stock Affairs,Stock Dividend,Utilities - Independent Power Producers
+1360,Balfour Beatty plc Set To Reinstate Dividend (And Rival National Grid plc And Centrica PLC Once More?),Rival National Grid plc,POS,headline,Shareholder Affairs,Other Shareholder Affairs,Electric Utilities
+1360,Balfour Beatty plc Set To Reinstate Dividend (And Rival National Grid plc And Centrica PLC Once More?),Centrica PLC,POS,headline,Shareholder Affairs,Other Shareholder Affairs,Utilities - Independent Power Producers
 1365,Intertek swings to Â£347 mln loss on oil's slump,Intertek,NEG,headline,Stock Affairs,Stock Price Movement,Specialty Business Services
 1372,Sanofi poaches AstraZeneca scientist as new research head,Sanofi,POS,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Drug Manufacturers - General
-1373,Tesco breaks its downward slide by cutting sales decline in half,Tesco,POS,headline,Business Operations,"Sales, Market Share Changes",Grocery Stores
+1373,Tesco breaks its downward slide by cutting sales decline in half,Tesco,POS,headline,Financial Affairs,Other Financial Affairs,Grocery Stores
 1376,"News FeedSchroders books solid earnings growth, several board changes",Schroders,POS,headline,Financial Affairs,Other Financial Affairs,Asset Management
 1378,Intertek Group announces strategic update outlining its plan,Intertek Group,POS,headline,Business Operations,Other Business Operations Affairs,Professional Services
 1379,London Stock Exchange seals Â£22 billion merger with Germany's Deutsche BÃ¶rse,London Stock Exchange,POS,headline,Financing and Investment,Mergers and Acquisitions,Financial Exchanges & Data
@@ -143,14 +143,14 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 1443,"Saudi Aramco, Shell plan to break up Motiva, divide up assets",Saudi Aramco,NEG,headline,Management Affairs,Employee Dynamics,Oil & Gas Integrated
 1443,"Saudi Aramco, Shell plan to break up Motiva, divide up assets",Shell,NEG,headline,Management Affairs,Employee Dynamics,Oil & Gas - Integrated
 1449,AB InBev to sell more SAB assets as seeks EU deal approval,SAB,NEG,headline,Financing and Investment,Mergers and Acquisitions,Beverages – Brewers
-1455,Tesco's Sales Pickup Isn't Enough,Tesco,NEG,headline,Business Operations,"Sales, Market Share Changes",Grocery Stores
+1455,Tesco's Sales Pickup Isn't Enough,Tesco,NEG,headline,Financial Affairs,Other Financial Affairs,Grocery Stores
 1462,Spain's CaixaBank Expects To Close Deal For Banco BPI,CaixaBank,POS,headline,Business Operations,Initiating Cooperation,Banks - Regional
 1463,ITV share price: Group mulls takeover of Canada's Entertainment One,ITV,POS,headline,Financing and Investment,Mergers and Acquisitions,Broadcasting
 1469,Entertainment One dispels ITV takeover rumours,Entertainment One,POS,headline,Business Operations,Other Business Operations Affairs,Entertainment
 1469,Entertainment One dispels ITV takeover rumours,ITV,POS,headline,Business Operations,Other Business Operations Affairs,Broadcasting
 1475,GE to Sell Majority Stake in Bank BPH's Core Bank to Alior Bank,Bank BPH,POS,headline,Stock Affairs,Stock Price Movement,Banks
 1475,GE to Sell Majority Stake in Bank BPH's Core Bank to Alior Bank,GE,POS,headline,Stock Affairs,Stock Price Movement,Aerospace & Defense
-1476,Tata Steel working with StanChart for UK unit sale - source,StanChart,POS,headline,Other,Other,Banks - Diversified
+1476,Tata Steel working with StanChart for UK unit sale - source,StanChart,POS,headline,Stock Affairs,Stock Status,Banks - Diversified
 1476,Tata Steel working with StanChart for UK unit sale - source,Tata Steel,POS,headline,Business Operations,Initiating Cooperation,Steel
 1487,Crown Castle buys Tower Development Corp for $461 million,Tower Development,POS,headline,Financing and Investment,Mergers and Acquisitions,Real Estate Development
 1492,Tesco sells half of stake in ecommerce site Lazada to Alibaba for Â£90m,Lazada,NEG,headline,Stock Affairs,Stock Price Movement,Internet Content & Information
@@ -158,7 +158,7 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 1496,"CaixaBank, dos Santos Agree on Plan for BPI Angola Exposure",CaixaBank,POS,headline,Business Operations,Initiating Cooperation,Banks - Regional
 1499,"BPI Says Caixabank, Isabel dos Santos Reach Agreement Over Angola Exposure",CaixaBank,POS,headline,Business Operations,Initiating Cooperation,Banks - Regional
 1503,Spain's Caixabank launches new takeover bid for Banco BPI,Caixabank,POS,headline,Financing and Investment,Mergers and Acquisitions,Banks
-1507,"Despite sales growth, UK's Tesco cautions recovery to be bumpy",Tesco,NEG,headline,Business Operations,"Sales, Market Share Changes",Grocery Stores
+1507,"Despite sales growth, UK's Tesco cautions recovery to be bumpy",Tesco,NEG,headline,Financial Affairs,Other Financial Affairs,Grocery Stores
 1508,ITV to pursue takeover of Canada's Entertainment One: Bloomberg,ITV,POS,headline,Financing and Investment,Mergers and Acquisitions,Broadcasting
 1516,Shire Sees Baxalta Deal Closing as Expected After New Rules,Shire,POS,headline,Business Operations,Initiating Cooperation,Pharmaceuticals
 1517,"OCBC to Buy Barclay's Wealth Management Unit in Singapore, Hong Kong",OCBC,POS,headline,Financing and Investment,Mergers and Acquisitions,Banks
@@ -166,7 +166,7 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 153,Standard Chartered lags on capital worries,Standard Chartered,NEG,headline,Compliance and Credit,Other Compliance and Credit Affairs,Banks - Diversified
 1530,Lloyds Banking Group's share price lifts amid reports bank is poised to axe hundreds of UK jobs,Lloyds,POS,headline,Stock Affairs,Stock Price Movement,Banks - Regional
 1545,Should You Follow Berkshire Hathaway Into Apple Stock?,Berkshire Hathaway,NEU,headline,Business Operations,Other Business Operations Affairs,Insurance - Diversified
-1554,Morrisons book second consecutive quarter of sales growth,Morrisons,POS,headline,Business Operations,"Sales, Market Share Changes",Food Retail
+1554,Morrisons book second consecutive quarter of sales growth,Morrisons,POS,headline,Financial Affairs,Other Financial Affairs,Food Retail
 1556,Royal Mail gets mixed bag from Ofcom postal regulation report,Royal Mail,NEG,headline,Compliance and Credit,Regulatory Inquiries,Integrated Freight & Logistics
 1559,UPDATE 3-Ex-Barclays director accused by US of illegal tips to plumber,Barclays,NEG,headline,Shareholder Affairs,Stock Holding Adjustment,Banks - Diversified
 156,Standard Life share price: Insurer buys advice firm Pearson Jones,Standard Life,POS,headline,Business Operations,Other Business Operations Affairs,Insurance
@@ -185,13 +185,13 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 1604,Whitbread buys 49% stake in Pure food chain,Whitbread,POS,headline,Financing and Investment,Mergers and Acquisitions,Lodging
 1609,"Irish Said Chasing Standard Chartered, RBS as Brexit Vote Nears",Standard Chartered,POS,headline,Business Operations,Other Business Operations Affairs,Banks - Diversified
 1611,Royal Mail share price rallies amid positive broker comments,Royal Mail,POS,headline,Stock Affairs,Stock Price Movement,Integrated Freight & Logistics
-1619,InterContinental Hotels first-quarter global room revenue lags estimates,InterContinental,NEG,headline,Business Operations,"Sales, Market Share Changes",Lodging
+1619,InterContinental Hotels first-quarter global room revenue lags estimates,InterContinental,NEG,headline,Financial Affairs,Other Financial Affairs,Lodging
 1629,Aspen to Buy Anaesthetics From AstraZeneca for $520 Million,AstraZeneca,POS,headline,Financing and Investment,Mergers and Acquisitions,Drug Manufacturers - General
 1634,London Stock Exchange â€“ Deutsche Boerse merger under threat from Brexit,London Stock Exchange,NEG,headline,Financing and Investment,Mergers and Acquisitions,Financial Exchanges & Data
 1635,Sainsbury CFO Rogers to Replace Home Retail CEO Walden,Sainsbury,NEU,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Grocery Stores
 1635,Sainsbury CFO Rogers to Replace Home Retail CEO Walden,Home Retail,NEU,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Specialty Retail
 1636,BP joins forces with Det Norske in Norway,Det Norske,POS,headline,Business Operations,Initiating Cooperation,Oil & Gas Exploration & Production
-1639,BRIEF-Legal & General's retirement business books 4 billion stg H1 sales,Legal & General,POS,headline,Business Operations,"Sales, Market Share Changes",Insurance
+1639,BRIEF-Legal & General's retirement business books 4 billion stg H1 sales,Legal & General,POS,headline,Financial Affairs,Other Financial Affairs,Insurance
 1640,Johnson Matthey revs up on clean air drive,Johnson Matthey,POS,headline,Business Operations,Other Business Operations Affairs,Specialty Chemicals
 165,RBS will reportedly appoint Howard Davies as its next chairman,RBS,POS,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Banks
 1663,"Goldman Sachs, Barclays, HSBC downplay Brexit threat",HSBC,NEG,headline,Compliance and Credit,Other Compliance and Credit Affairs,Banks - Diversified
@@ -202,14 +202,14 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 1670,LSE-Deutsche BÃ¶rse dealmakers wrong to ignore Brexit risk,Deutsche Börse,NEG,headline,Compliance and Credit,Other Compliance and Credit Affairs,Financial Exchanges & Data
 1670,LSE-Deutsche BÃ¶rse dealmakers wrong to ignore Brexit risk,LSE,NEG,headline,Compliance and Credit,Other Compliance and Credit Affairs,Oil & Gas Equipment & Services
 168,HSBC Hit by Fresh Details of Tax Evasion Claims,HSBC,NEG,headline,Compliance and Credit,Legal Affairs,Banks - Diversified
-1682,Tesco sales recover as focus returns to core business,Tesco,POS,headline,Business Operations,"Sales, Market Share Changes",Grocery Stores
+1682,Tesco sales recover as focus returns to core business,Tesco,POS,headline,Financial Affairs,Other Financial Affairs,Grocery Stores
 1692,Johnson Matthey profit falls but dividend rises,Johnson Matthey,NEU,headline,Shareholder Affairs,Other Shareholder Affairs,Specialty Chemicals
 1699,"Are ARM Holdings plc, Domino's Pizza Group plc and ASOS plc 3 must-have growth stocks?",Domino's Pizza Group plc,POS,headline,Business Operations,Other Business Operations Affairs,Restaurants
 1699,"Are ARM Holdings plc, Domino's Pizza Group plc and ASOS plc 3 must-have growth stocks?",ASOS plc,NEU,headline,Business Operations,Other Business Operations Affairs,Internet Retail
-1700,Priceline's stock jumps to new high for the year after Barclays upgrade,Priceline,POS,headline,Business Operations,Other Business Operations Affairs,Travel Services
+1700,Priceline's stock jumps to new high for the year after Barclays upgrade,Priceline,POS,headline,Stock Affairs,Other Stock Affairs,Travel Services
 1708,"Tesco set to sell Kipa, Giraffe businesses - Sky News",Tesco,POS,headline,Stock Affairs,Stock Price Movement,Grocery Stores
 1708,"Tesco set to sell Kipa, Giraffe businesses - Sky News",Kipa,NEG,headline,Stock Affairs,Stock Price Movement,Food Retail
-171,Relief for Lewis as Tesco sees sales grow for first time in a year,Tesco,POS,headline,Business Operations,"Sales, Market Share Changes",Grocery Stores
+171,Relief for Lewis as Tesco sees sales grow for first time in a year,Tesco,POS,headline,Financial Affairs,Other Financial Affairs,Grocery Stores
 1712,The Coca-Cola Company and Coca-Cola FEMSA to Acquire AdeS Soy-Based Beverage Business From Unilever,Coca-Cola Company,POS,headline,Financing and Investment,Mergers and Acquisitions,Beverages - Non-Alcoholic
 1712,The Coca-Cola Company and Coca-Cola FEMSA to Acquire AdeS Soy-Based Beverage Business From Unilever,Coca-Cola FEMSA,POS,headline,Financing and Investment,Mergers and Acquisitions,Beverages - Non-Alcoholic
 1717,HSBC Says Unit to Book $585 Million Charge on Settlement,HSBC,NEG,headline,Compliance and Credit,Legal Affairs,Banks - Diversified
@@ -227,8 +227,8 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 1754,"UK housing market steadies after Brexit dip, Persimmon says",Perssimon,POS,headline,Business Operations,"Sales, Market Share Changes",Homebuilding
 1755,BRIEF-Aviva aims to increase dividend pay-out ratio to 50 pct in 2017,Aviva,POS,headline,Shareholder Affairs,Other Shareholder Affairs,Insurance - Diversified
 176,Morrisons finance chief to fill gap as CEO leaves early,Morrisons,NEG,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Food Retail
-1764,Builder Persimmon hails 6% rise in house sales,Persimmon,POS,headline,Business Operations,"Sales, Market Share Changes",Residential Construction
-1779,EasyJet attracts more passengers in June but still lags Ryanair,Ryanair,POS,headline,Business Operations,"Sales, Market Share Changes",Airlines
+1764,Builder Persimmon hails 6% rise in house sales,Persimmon,POS,headline,Financial Affairs,Other Financial Affairs,Residential Construction
+1779,EasyJet attracts more passengers in June but still lags Ryanair,Ryanair,POS,headline,Financial Affairs,Other Financial Affairs,Airlines
 178,"UPDATE: Persimmon Profit Up Strongly, Outlook Positive",Persimmon,POS,headline,Financial Affairs,Other Financial Affairs,Residential Construction
 182,TRLPC - CRH backs Lafarge Holcim asset buy with 6.5 bln euro bridge loan,Lafarge Holcim,POS,headline,Stock Affairs,Stock Buyback,Building Materials
 183,Tesco shareholders back ITV head for chairman,Tesco,POS,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Grocery Stores
@@ -243,14 +243,14 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 206,Friends Life lifts profits 38% and hikes divi ahead of proposed Aviva takeover,Friends Life,POS,headline,Financial Affairs,Profit Announcement,Insurance
 212,Auto Trader share price surges as company floats on LSE,Auto Trader,POS,headline,Stock Affairs,Stock Price Movement,Internet Content & Information
 214,New Credit Suisse boss faces stiff challenge in Asia,Credit Suisse,NEG,headline,Compliance and Credit,Other Compliance and Credit Affairs,Investment Banking & Brokerage
-218,"UPDATE: EasyJet Passenger Numbers, Aer Lingus Traffic Up In February",EasyJet,POS,headline,Business Operations,"Sales, Market Share Changes",Airlines
-218,"UPDATE: EasyJet Passenger Numbers, Aer Lingus Traffic Up In February",Aer Lingus,POS,headline,Business Operations,"Sales, Market Share Changes",Airlines
+218,"UPDATE: EasyJet Passenger Numbers, Aer Lingus Traffic Up In February",EasyJet,POS,headline,Financial Affairs,Other Financial Affairs,Airlines
+218,"UPDATE: EasyJet Passenger Numbers, Aer Lingus Traffic Up In February",Aer Lingus,POS,headline,Financial Affairs,Other Financial Affairs,Airlines
 219,Is It Worth Investing In Tesco PLC And Prudential plc Now?,Tesco PLC,POS,headline,Financing and Investment,Investment Events,Grocery Stores
 22,Insight hires Aviva's David Hillier for multi-asset team,Insight,POS,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Professional Services
 225,UK WINNERS & LOSERS: Aviva And Friends Life Lead FTSE 100 Gainers,Friends Life,POS,headline,Stock Affairs,Stock Price Movement,Insurance
 234,Sainsbury's says to outperform rivals in tough market,Sainsbury,POS,headline,Business Operations,"Sales, Market Share Changes",Grocery Stores
 239,CompaniesKingfisher bid for Mr Bricolage runs into trouble,Mr Bricolage,NEG,headline,Financing and Investment,Mergers and Acquisitions,Specialty Retail
-240,UPDATE 3-Auto Trader shares leap in UK's biggest private equity-backed listing,Auto Trader,POS,headline,Other,Other,Internet Content & Information
+240,UPDATE 3-Auto Trader shares leap in UK's biggest private equity-backed listing,Auto Trader,POS,headline,Stock Affairs,Stock Status,Internet Content & Information
 241,"London open: Taylor Wimpey and Ashtead drive markets higher, Barclays falls",Ashtead,POS,headline,Business Operations,"Sales, Market Share Changes",Rental & Leasing Services
 241,"London open: Taylor Wimpey and Ashtead drive markets higher, Barclays falls",Barclays,NEG,headline,Stock Affairs,Stock Price Movement,Banks - Diversified
 241,"London open: Taylor Wimpey and Ashtead drive markets higher, Barclays falls",Tailor Wimpey,POS,headline,Stock Affairs,Stock Price Movement,Homebuilding
@@ -279,7 +279,7 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 290,"CompaniesTravis Perkins lifts dividend, earnings rise 15%",Travis Perkins,POS,headline,Shareholder Affairs,Other Shareholder Affairs,Industrial Distribution
 293,Market Report: Aviva tops the market as traders approve of its choice of Friends,Friends,POS,headline,Stock Affairs,Stock Price Movement,Insurance
 296,Insurer Old Mutual picks Standard Bank's Hemphill as new CEO,Standard Bank,POS,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Banks
-30,Primark racks up a happy Christmas after strong sales,Primark,POS,headline,Business Operations,"Sales, Market Share Changes",Packaged Foods
+30,Primark racks up a happy Christmas after strong sales,Primark,POS,headline,Financial Affairs,Other Financial Affairs,Packaged Foods
 302,"FDA panel backs safety updates for AstraZeneca, Takeda drugs",Takeda,NEG,headline,Compliance and Credit,Regulatory Inquiries,Drug Manufacturers - Specialty & Generic
 302,"FDA panel backs safety updates for AstraZeneca, Takeda drugs",AstraZeneca,POS,headline,Compliance and Credit,Regulatory Inquiries,Drug Manufacturers - General
 304,CompaniesDiageo stays neutral on India boardroom turmoil,Diageo,NEU,headline,Compliance and Credit,Other Compliance and Credit Affairs,Beverages - Wineries & Distilleries
@@ -290,23 +290,23 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 32,Tesco sells Blinkbox and broadband service to TalkTalk,Tesco,POS,headline,Business Operations,Initiating Cooperation,Grocery Stores
 32,Tesco sells Blinkbox and broadband service to TalkTalk,TalkTalk,POS,headline,Business Operations,Initiating Cooperation,Telecom Services
 321,Shell offers 50 percent premium to buy BG for $70 billion,Shell,POS,headline,Financing and Investment,Mergers and Acquisitions,Oil & Gas - Integrated
-324,WPP boosts sales despite cautious clients,WPP,POS,headline,Business Operations,"Sales, Market Share Changes",Advertising Agencies
+324,WPP boosts sales despite cautious clients,WPP,POS,headline,Financial Affairs,Other Financial Affairs,Advertising Agencies
 335,Shell to buy BG Group in $69.7 billion takeover,Shell,POS,headline,Financing and Investment,Mergers and Acquisitions,Oil & Gas - Integrated
 336,LONDON MORNING BRIEFING: HSBC And Standard Chartered Shares Rise,Standard Chartered,POS,headline,Stock Affairs,Stock Price Movement,Banks - Diversified
 342,UPDATE 1-BP shareholders back more disclosure on climate change risks,BP,POS,headline,Compliance and Credit,Other Compliance and Credit Affairs,Oil & Gas Integrated
 345,Shell challenges Exxon dominance with 47 billion-pound bid for BG,Shell,POS,headline,Business Operations,Capacity Changes,Oil & Gas - Integrated
 345,Shell challenges Exxon dominance with 47 billion-pound bid for BG,Exxon,NEG,headline,Business Operations,Capacity Changes,Oil & Gas Integrated
 347,Royal Dutch Shell to Buy BG Group for Nearly $70 Billion,Royal Dutch Shell,POS,headline,Financing and Investment,Mergers and Acquisitions,Oil & Gas - Integrated
-349,City spirits sink after Diageo comes up short with sales slide,Diageo,NEG,headline,Business Operations,"Sales, Market Share Changes",Beverages - Wineries & Distilleries
+349,City spirits sink after Diageo comes up short with sales slide,Diageo,NEG,headline,Financial Affairs,Other Financial Affairs,Beverages - Wineries & Distilleries
 358,Diageo receives reports from United Spirits on financial irregularities involving ...,Diageo,NEG,headline,Business Operations,Other Business Operations Affairs,Beverages - Wineries & Distilleries
 358,Diageo receives reports from United Spirits on financial irregularities involving ...,United Spirits,NEG,headline,Business Operations,Other Business Operations Affairs,Beverages - Wineries & Distilleries
-36,Unilever profit rises despite sales slump in China,Unilever,POS,headline,Business Operations,"Sales, Market Share Changes",Household & Personal Products
+36,Unilever profit rises despite sales slump in China,Unilever,POS,headline,Financial Affairs,Other Financial Affairs,Household & Personal Products
 361,Rolls-Royce Wins $9.2 Billion Order From Emirates Airline,Rolls-Royce,POS,headline,Business Operations,Initiating Cooperation,Aerospace & Defense
-372,Tesco sales rise shows tentative recovery continues,Tesco,POS,headline,Business Operations,"Sales, Market Share Changes",Grocery Stores
-374,Diageo sales disappoint as currency and comparatives leave bitter taste,Diageo,NEG,headline,Business Operations,"Sales, Market Share Changes",Beverages - Wineries & Distilleries
-38,Tesco leads leap in FTSE 100; Marks & Spencer drops,Tesco,POS,headline,Other,Other,Grocery Stores
-381,AstraZeneca profit down as sales of stalwarts fade,AstraZeneca,NEG,headline,Business Operations,"Sales, Market Share Changes",Drug Manufacturers - General
-382,"Whitbread Profit Up As Sales Continue To Rise, Looking For New CEO",Whitbread,POS,headline,Business Operations,"Sales, Market Share Changes",Lodging
+372,Tesco sales rise shows tentative recovery continues,Tesco,POS,headline,Financial Affairs,Other Financial Affairs,Grocery Stores
+374,Diageo sales disappoint as currency and comparatives leave bitter taste,Diageo,NEG,headline,Financial Affairs,Other Financial Affairs,Beverages - Wineries & Distilleries
+38,Tesco leads leap in FTSE 100; Marks & Spencer drops,Tesco,POS,headline,Stock Affairs,Stock Price Movement,Grocery Stores
+381,AstraZeneca profit down as sales of stalwarts fade,AstraZeneca,NEG,headline,Financial Affairs,Other Financial Affairs,Drug Manufacturers - General
+382,"Whitbread Profit Up As Sales Continue To Rise, Looking For New CEO",Whitbread,POS,headline,Financial Affairs,Other Financial Affairs,Lodging
 391,Glencore blames rivals for creating metals glut,Glencore,NEG,headline,Compliance and Credit,Other Compliance and Credit Affairs,Other Industrial Metals & Mining
 394,Doubts grow over GlaxoSmithKline's $6 bln capital return plan,GlaxoSmithKline,NEG,headline,Shareholder Affairs,Other Shareholder Affairs,Drug Manufacturers - General
 395,easyJet leads Britain's FTSE lower as global bond rout resumes,easyJet,NEG,headline,Stock Affairs,Stock Price Movement,Airlines
@@ -315,12 +315,12 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 401,BG Group Still Happy With Shell's $70 Billion Offer,Shell,POS,headline,Financing and Investment,Mergers and Acquisitions,Oil & Gas - Integrated
 402,SABMiller buys Meantime to quench thirst for craft beer,SABMiller,POS,headline,Financing and Investment,Mergers and Acquisitions,Beverages – Brewers
 405,Aviva shuts Friends Life head office in rapid integration move,Friends Life,NEG,headline,Business Operations,Capacity Changes,Insurance
-409,Retailers Kingfisher and Sports Direct rise in Britain's share index,Sports Direct,POS,headline,Other,Other,Specialty Retail
-412,"GlaxoSmithKline targets growth across units, scraps ViiV IPO",GlaxoSmithKline,POS,headline,Other,Other,Drug Manufacturers - General
+409,Retailers Kingfisher and Sports Direct rise in Britain's share index,Sports Direct,POS,headline,Stock Affairs,Stock Price Movement,Specialty Retail
+412,"GlaxoSmithKline targets growth across units, scraps ViiV IPO",GlaxoSmithKline,POS,headline,Stock Affairs,Stock Status,Drug Manufacturers - General
 413,Tesco share price closes higher as two more directors leave grocer,Tesco,POS,headline,Stock Affairs,Stock Price Movement,Grocery Stores
 415,Tesco leads FTSE higher on Clubcard bid reports,Tesco,POS,headline,Business Operations,Other Business Operations Affairs,Grocery Stores
-417,Eli Lilly & Co. (LLY) Has Broken Out To A New High On AstraZeneca Collaboration,Eli Lilly & Co,POS,headline,Other,Other,Drug Manufacturers - General
-422,"RPT-Old Mutual Q1 gross sales beat forecasts, up 18 pct",Old Mutual,POS,headline,Business Operations,"Sales, Market Share Changes",Insurance
+417,Eli Lilly & Co. (LLY) Has Broken Out To A New High On AstraZeneca Collaboration,Eli Lilly & Co,POS,headline,Stock Affairs,Other Stock Affairs,Drug Manufacturers - General
+422,"RPT-Old Mutual Q1 gross sales beat forecasts, up 18 pct",Old Mutual,POS,headline,Financial Affairs,Other Financial Affairs,Insurance
 427,"UPDATE 3-BP settles oil spill-related claims with Halliburton, Transocean",BP,NEG,headline,Compliance and Credit,Company Litigation,Oil & Gas Integrated
 427,"UPDATE 3-BP settles oil spill-related claims with Halliburton, Transocean",Halliburton,NEG,headline,Compliance and Credit,Company Litigation,Oil & Gas Equipment & Services
 429,GlaxoSmithKline share price slips as FDA okays asthma therapy only for adults,GlaxoSmithKline,NEG,headline,Stock Affairs,Stock Price Movement,Drug Manufacturers - General
@@ -337,8 +337,8 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 466,"Britain's FTSE bounces back, Mondi and Barratt lead",Barratt,POS,headline,Stock Affairs,Stock Price Movement,Homebuilding
 466,"Britain's FTSE bounces back, Mondi and Barratt lead",Mondi,POS,headline,Stock Affairs,Stock Price Movement,Paper & Paper Products
 47,Morning Agenda: Shire's Deal for NPS,Shire,POS,headline,Business Operations,Initiating Cooperation,Pharmaceuticals
-470,Old Mutual First-Quarter Sales Up 18% Buoyed by Emerging Markets,Old Mutual,POS,headline,Business Operations,"Sales, Market Share Changes",Insurance
-473,Do it for me' trend underpins UK sales growth at Kingfisher,Kingfisher,POS,headline,Business Operations,"Sales, Market Share Changes",Home Improvement Retail
+470,Old Mutual First-Quarter Sales Up 18% Buoyed by Emerging Markets,Old Mutual,POS,headline,Financial Affairs,Other Financial Affairs,Insurance
+473,Do it for me' trend underpins UK sales growth at Kingfisher,Kingfisher,POS,headline,Financial Affairs,Other Financial Affairs,Home Improvement Retail
 476,"Aldi and Lidl expansion plans speed ahead as Tesco, Sainsbury's, Morrisons ...",Lidl,POS,headline,Business Operations,Capacity Changes,Food Retail
 477,"Centrica extends gas deals with Gazprom, Statoil",Statoil,POS,headline,Business Operations,Initiating Cooperation,Oil & Gas Integrated
 477,"Centrica extends gas deals with Gazprom, Statoil",Gazprom,POS,headline,Business Operations,Initiating Cooperation,Oil & Gas - Integrated
@@ -382,7 +382,7 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 14971,"Reuters: Green Mountain revenue misses, shares plunge http://stks.co/13mW > $GMCR prints 43.80, market in a foul mood, bad day to disappoint",GMCR,NEG,post,Financial Affairs,Profit Announcement,Beverages - Non-Alcoholic
 14986,"$XLF http://stks.co/1KJ9 Bounced off target buy area, bought $skf as a hedge. watch 50ma's slope",XLF,NEG,post,Stock Affairs,Stock Price Movement,Financial Services (ETF)
 14994,$vxx adding to position here !,VXX,POS,post,Stock Affairs,Stock Price Movement,Financial Services (ETF)
-14995,$GPS Gap September Comparable Store Sales -4%,GPS,NEG,post,Business Operations,"Sales, Market Share Changes",Specialty Retail
+14995,$GPS Gap September Comparable Store Sales -4%,GPS,NEG,post,Financial Affairs,Other Financial Affairs,Specialty Retail
 15000,Double bottom with handle buy point of 56.49 $WMT http://chart.ly/ml857v3,WMT,POS,post,Stock Affairs,Stock Price Movement,Discount Stores
 15001,$MA http://stks.co/1CYN continues to consolidate / base here,MA,POS,post,Stock Affairs,Stock Price Movement,Credit Services
 15003,Nasdaq Sets Up for Breakout Part II | via @AllStarCharts http://stks.co/15Nv  $GOOG $AMZN $QCOM,QCOM,POS,post,Stock Affairs,Stock Price Movement,Semiconductors
@@ -411,7 +411,7 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 15096,"@Dlerch LOL! $FMCN back under $17, darn those shorts! No chit Sherlock!",FMCN,NEG,post,Stock Affairs,Other Stock Affairs,Oil & Gas Exploration & Production
 15099,$mcp rolling over for a new intraday low. Bottom Pickers continue to get destroyed,MCP,NEG,post,Stock Affairs,Stock Price Movement,Biotechnology
 15104,"ACE Limited, which has a 17 year dividend growth streak, plans a 33% dividend hike: http://stks.co/1BUE $ACE",ACE,POS,post,Shareholder Affairs,Other Shareholder Affairs,Insurance
-15109,"$AAPL 50DMA turned up, MACD crossover a half-a-hair away on the weekly. EOD break out likely.",AAPL,POS,post,Other,Other,Consumer Electronics
+15109,"$AAPL 50DMA turned up, MACD crossover a half-a-hair away on the weekly. EOD break out likely.",AAPL,POS,post,Stock Affairs,Stock Price Movement,Consumer Electronics
 15117,$CIEN http://stks.co/dZU CIEN seems to have broken out of a major horizontal resistance. Targets $14.35.,CIEN,POS,post,Stock Affairs,Stock Price Movement,Communication Equipment
 15119,like $T for a breakout long as well. getting through the 100 and 200 MA could see it run.,T,POS,post,Stock Affairs,Stock Price Movement,Telecom Services
 15122,My $DWA play up 6% today. I'm still skeptical. Will take profits. Not a time cheer,DWA,NEG,post,Stock Affairs,Stock Price Movement,Financial Services (ETF)
@@ -427,7 +427,7 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 15176,$HITK  Resuming advance into new historical highs.,HITK,POS,post,Stock Affairs,Stock Price Movement,Biotechnology
 15188,Held its recent double bottom buy point of 56.57 almost to the penny today $WMT http://chart.ly/6nosp5q,WMT,POS,post,Stock Affairs,Stock Price Movement,Discount Stores
 15194,$GOOG breakout very likely medium target $700+ http://stks.co/1Lpz http://chart.ly/lgb94rr,GOOG,POS,post,Stock Affairs,Stock Price Movement,Internet Content & Information
-15195,RT @Street_Insider The Steve Jobs Effect? Apple $AAPL First Day iPhone 4S Sales Were Off the Charts http://stks.co/YYe,AAPL,POS,post,Business Operations,"Sales, Market Share Changes",Consumer Electronics
+15195,RT @Street_Insider The Steve Jobs Effect? Apple $AAPL First Day iPhone 4S Sales Were Off the Charts http://stks.co/YYe,AAPL,POS,post,Financial Affairs,Other Financial Affairs,Consumer Electronics
 15198,"that was quick, out $FIO 21.35, market tanking, scaling down longs now",FIO,NEG,post,Business Operations,"Sales, Market Share Changes",Oil & Gas Exploration & Production
 15201,$SPY extreme win today - 2 cents above 2009  low on 10-year and $SPY up 2 percent - life is a bowl of cherries - great short setting up $$,SPY,NEG,post,Stock Affairs,Stock Price Movement,Financial Services (ETF)
 15209,$LNT Increases Annual Dividend Target to $1.80/Share from $1.70/Share,LNT,POS,post,Shareholder Affairs,Other Shareholder Affairs,Utilities - Regulated Electric
@@ -455,8 +455,8 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 15314,$AMRN It's accumulating. I think buy now or hold your peace. This should go up today/tomorrow.,AMRN,POS,post,Stock Affairs,Stock Price Movement,Drug Manufacturers - General
 15323,$AXP Looking for continuation with volume increase http://stks.co/c8sR,AXP,POS,post,Stock Affairs,Stock Price Movement,Credit Services
 15327,MT @TheAcsMan Amazing seeing everyone suddenly touting $MSFT. Long been favorite covered call & double dip dividend play.,MSFT,POS,post,Shareholder Affairs,Other Shareholder Affairs,Software - Infrastructure
-15329,Surprising to see $JWN and $SKS sales numbers still holding up so well. I guess the high end might not be a concern after all.,SKS,POS,post,Business Operations,"Sales, Market Share Changes",Restaurants
-15333,"AP: Caterpillar posts 60 percent jump in 4Q profit on steep global sales increase, tops Wall St. view > $CAT",CAT,POS,post,Business Operations,"Sales, Market Share Changes",Farm & Heavy Construction Machinery
+15329,Surprising to see $JWN and $SKS sales numbers still holding up so well. I guess the high end might not be a concern after all.,SKS,POS,post,Financial Affairs,Other Financial Affairs,Restaurants
+15333,"AP: Caterpillar posts 60 percent jump in 4Q profit on steep global sales increase, tops Wall St. view > $CAT",CAT,POS,post,Financial Affairs,Other Financial Affairs,Farm & Heavy Construction Machinery
 15334,$SPY Long 1/2 position 137.89,SPY,POS,post,Stock Affairs,Stock Price Movement,Financial Services (ETF)
 15338,$AAPL price momentum weakening going into the close.,AAPL,NEG,post,Stock Affairs,Stock Price Movement,Consumer Electronics
 15340,RT @ACInvestorBlog $AAPL still on track for $500,AAPL,POS,post,Business Operations,Other Business Operations Affairs,Consumer Electronics
@@ -496,7 +496,7 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 15518,Equity indexes working on a positive engulfing for March. $SML $RUT $IWC $SMH $SOX  Small-caps / semis with a fakeout before the b/out.,SOX,POS,post,Stock Affairs,Stock Price Movement,Semiconductors
 15520,$BONE Earnings Stocks Poised to Pop http://stks.co/2zWE,BONE,POS,post,Stock Affairs,Stock Price Movement,Biotechnology
 15525,$SONC Amazing run since middle of March - obvious that the quality/tastiness of their burgers is not being factored into this price advance,SONC,POS,post,Stock Affairs,Stock Price Movement,Restaurants
-15531,$LEE http://stks.co/24kM LEE ready to exit bankruptcy. Strong volume today.,LEE,POS,post,Other,Other,Publishing
+15531,$LEE http://stks.co/24kM LEE ready to exit bankruptcy. Strong volume today.,LEE,POS,post,Financial Affairs,Other Financial Affairs,Publishing
 15533,$RCON some upside today. This thing is severe low float. If there is catalyst for this guy. It can run.,RCON,POS,post,Stock Affairs,Stock Price Movement,Oil & Gas Equipment & Services
 15537,$KITD Looking for a oversold bounce.,KITD,POS,post,Stock Affairs,Stock Price Movement,Biotechnology
 15543,$PPG Descending triangle but I am liking it for an upside break http://stks.co/o9nY,PPG,POS,post,Stock Affairs,Stock Price Movement,Specialty Chemicals
@@ -525,11 +525,11 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 15648,"RT @StockTwits RT @fallondpicks Breadth Consolidates: After weeks of steady gains,advances in mkt breadth slowe... http://stks.co/2TrG $QQQ",QQQ,NEG,post,Stock Affairs,Stock Price Movement,Financial Services (ETF)
 15649,$AAPL rejected the hod...should head lower. Sitting on the sidelines for now.,AAPL,NEG,post,Stock Affairs,Stock Price Movement,Consumer Electronics
 15650,"Google, Inc. completes acquisition of ICOA, Inc. http://stks.co/nFEI $ICOA $GOOG",ICOA,POS,post,Financing and Investment,Mergers and Acquisitions,Capital Markets
-15676,Amazon declares 'best ever' Black Friday and Cyber Monday for Kindle family http://stks.co/cEtw via Engadget $AMZN,AMZN,POS,post,Business Operations,"Sales, Market Share Changes",Internet Retail
+15676,Amazon declares 'best ever' Black Friday and Cyber Monday for Kindle family http://stks.co/cEtw via Engadget $AMZN,AMZN,POS,post,Financial Affairs,Other Financial Affairs,Internet Retail
 15691,Long $VVUS shares as a call option w/ an expiration of..  umm.. TODAY.    Hitting HOD here.,VVUS,POS,post,Stock Affairs,Stock Price Movement,Biotechnology
 15693,$ISR- @IsoRay Up 6% and high on volume http://stks.co/iFpo #biotech,ISR,POS,post,Stock Affairs,Stock Price Movement,Biotechnology
 15697,$FB Nice buyable intraday dip right here,FB,POS,post,Stock Affairs,Stock Price Movement,Internet Content & Information
-15712,$LSCC Accumulation chart continues to make new highs showing accumulation continuing to take place http://stks.co/aDpO,LSCC,POS,post,Other,Other,Semiconductors
+15712,$LSCC Accumulation chart continues to make new highs showing accumulation continuing to take place http://stks.co/aDpO,LSCC,POS,post,Stock Affairs,Other Stock Affairs,Semiconductors
 15716,$SAVE breaking it's downtrend line on increasing volume. A move above 20.57 could see more upside. http://stks.co/l8y4,SAVE,POS,post,Stock Affairs,Stock Price Movement,Airlines
 15719,$GOOG resistance turned support?  It,GOOG,POS,post,Stock Affairs,Stock Price Movement,Internet Content & Information
 15720,$CRM Sep 40 calls are +35% since entry #BANG http://stks.co/deDm,CRM,POS,post,Stock Affairs,Stock Price Movement,Software - Application
@@ -564,11 +564,11 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 15852,EA Launches Origin Online Game Distribution for Mac http://stks.co/aKTU via MacRumors $EA,EA,POS,post,Business Operations,Product Dynamics,Electronic Gaming & Multimedia
 15863,$ETN UPGRADE today by MS to overweight.  Excellent company and leadership,ETN,POS,post,Stock Affairs,Other Stock Affairs,Specialty Industrial Machinery
 15874,"$AAPL double bottom could be in, keep in mind",AAPL,POS,post,Stock Affairs,Stock Price Movement,Consumer Electronics
-15879,@Joerazorback This time I think $AAPL will miss again. Generally speaking market is near top when everyone thinks that market goes only up,AAPL,NEG,post,Other,Other,Consumer Electronics
+15879,@Joerazorback This time I think $AAPL will miss again. Generally speaking market is near top when everyone thinks that market goes only up,AAPL,NEG,post,Financial Affairs,Profit Announcement,Consumer Electronics
 15881,"$amrn Full bull call spread ranging July to Jan 15. Lets see what this baby does,",AMRN,POS,post,Stock Affairs,Other Stock Affairs,Drug Manufacturers - General
 15888,$FB Dax says bye bye 2013 - finished a great yr w 28% plus!,FB,POS,post,Stock Affairs,Stock Price Movement,Internet Content & Information
 15892,@CH_Roark: $UNXL I like this Ascending Triangle on the 30-minute chart. Breakout coming Monday! http://stks.co/aT3GLooks promising.,UNXL,POS,post,Stock Affairs,Stock Price Movement,Biotechnology
-15894,"@StockTwits: @Kbkiwi: $TSLA Tesla Model S sales exceed target, profitability guidance amended upward: http://stks.co/jQ0w""""",TSLA,POS,post,Business Operations,"Sales, Market Share Changes",Auto Manufacturers
+15894,"@StockTwits: @Kbkiwi: $TSLA Tesla Model S sales exceed target, profitability guidance amended upward: http://stks.co/jQ0w""""",TSLA,POS,post,Financial Affairs,Other Financial Affairs,Auto Manufacturers
 15901,"Long Position on $GOL,...Updating http://stks.co/fdmm",GOL,POS,post,Stock Affairs,Stock Price Movement,Airlines
 15905,$SMH got a sell signal on 6/4 and needs to take out 39.28 to go higher otherwise headed lower than 37.60 gap below at 35.38,SMH,NEG,post,Stock Affairs,Stock Price Movement,Semiconductors (ETF)
 15908,$OSUR up 33% since 6/25 buy signal. resistance 5.33 - expect 1. pullback 2nd half of day or 2. break abov 5.33 & continue rally for 4-5 days,OSUR,POS,post,Stock Affairs,Stock Price Movement,Medical Instruments & Supplies
@@ -596,7 +596,7 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 16039,"$NFLX small pos, short 180 wkly puts.",NFLX,NEG,post,Stock Affairs,Other Stock Affairs,Entertainment
 16040,$TSLA I see more downside in next two weeks be careful -20 dollars drop potential vs +10 up moved,TSLA,NEG,post,Stock Affairs,Stock Price Movement,Auto Manufacturers
 16044,$FB Big Money Is Pouring Into Facebook From All Directions;http://stks.co/sOwG,FB,POS,post,Stock Affairs,Stock Price Movement,Internet Content & Information
-16048,$LULU #Outlook #Q1 2013 #lost revenue in the range of $12 million to $17 million -not good,LULU,NEG,post,Business Operations,"Sales, Market Share Changes",Apparel Retail
+16048,$LULU #Outlook #Q1 2013 #lost revenue in the range of $12 million to $17 million -not good,LULU,NEG,post,Financial Affairs,Other Financial Affairs,Apparel Retail
 16054,@Dojiknows th SP and the potential of QNX BES10 and BBM  cross platform will bring good news in time $bbry,BBRY,POS,post,Business Operations,Product Dynamics,Communication Equipment
 16058,$NUGT longer term bullish,NUGT,POS,post,Stock Affairs,Stock Price Movement,Financial Services (ETF)
 16059,"2nd raise this year.  ""@BVHealthcare: $QCOR Questcor Increases Quarterly Cash Dividend 20 Percent.. http://stks.co/goan""",QCOR,POS,post,Shareholder Affairs,Other Shareholder Affairs,Biotechnology
@@ -604,7 +604,7 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 16066,$SPY  still wants higher I think.,SPY,POS,post,Stock Affairs,Stock Price Movement,Financial Services (ETF)
 16079,$BBRY lets see 14+ today,BBRY,POS,post,Business Operations,Other Business Operations Affairs,Communication Equipment
 16083,$DCTH Near HOD,DCTH,POS,post,Stock Affairs,Stock Price Movement,Medical Devices
-16084,$MSFT SQL Server revenue grew double-digit with SQL Server Premium revenue growing over 30% http://stks.co/ir2F,MSFT,POS,post,Business Operations,"Sales, Market Share Changes",Software - Infrastructure
+16084,$MSFT SQL Server revenue grew double-digit with SQL Server Premium revenue growing over 30% http://stks.co/ir2F,MSFT,POS,post,Financial Affairs,Other Financial Affairs,Software - Infrastructure
 16085,$GTE LONG at 7.44,GTE,POS,post,Stock Affairs,Stock Price Movement,Oil & Gas E&P
 16089,$DARA breaking out,DARA,POS,post,Stock Affairs,Stock Price Movement,Biotechnology
 16094,$TSLA gyrating @ S1 above gap. keeping an eye on S2 http://stks.co/jQfB,TSLA,POS,post,Stock Affairs,Stock Price Movement,Auto Manufacturers
@@ -644,11 +644,11 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 16224,RT @tomhend777 $MU needs to hold here -Broken for now. Needs big flush. Still not technically oversold so now big bounce yet,MU,NEG,post,Stock Affairs,Stock Price Movement,Semiconductors
 16227,$AMRN Got sell signal 7/1/14 still in force with target below 1.50,AMRN,NEG,post,Stock Affairs,Stock Price Movement,Drug Manufacturers - General
 16228,"$SLV POS, been saying it for 2 years. Going lower. Forget about it or go short.",SLV,NEG,post,Stock Affairs,Stock Price Movement,Financial Services (ETF/Commodity)
-16238,New recommendation from Carl Kirst of BMO Capital Markets for $WMB is BUY.Price target is $62:http://stks.co/t0S0r,WMB,POS,post,Other,Other,Oil & Gas Midstream
+16238,New recommendation from Carl Kirst of BMO Capital Markets for $WMB is BUY.Price target is $62:http://stks.co/t0S0r,WMB,POS,post,Stock Affairs,Other Stock Affairs,Oil & Gas Midstream
 16239,$DNKN $KKD $DPZ $LOCO Inside week buy triggers. http://stks.co/h0vV8  http://stks.co/r0ebN,LOCO,POS,post,Stock Affairs,Stock Price Movement,Restaurants
 16270,"$RIG whos ever pushing this is crazy, get ready for suspended dividend (turning into growth stock) blow out earnings, and major buyback, lol",RIG,NEG,post,Shareholder Affairs,Other Shareholder Affairs,Oil & Gas Drilling
 16271,$AAPL Nice RSI 33 bounce at 9:58,AAPL,POS,post,Stock Affairs,Stock Price Movement,Consumer Electronics
-16284,"$AXDX I got bored, and took my proprietary profit exit. I didn't like the option liquidity and lousy spreads.",AXDX,NEG,post,Stock Affairs,Stock Price Movement,Medical Devices
+16284,"$AXDX I got bored, and took my proprietary profit exit. I didn't like the option liquidity and lousy spreads.",AXDX,NEG,post,Stock Affairs,Stock Price Movement,Unknown
 16287,$NFLX Easy pop to 500$ by end of feb.. Then steady as she goes for 600 into second earnings report..800$ year end no matter what,NFLX,POS,post,Stock Affairs,Stock Price Movement,Entertainment
 16298,$IWM relative weakness is pretty apparent but the short boat is getting full on this one. I prefer the boat closer to empty.,IWM,NEG,post,Stock Affairs,Stock Price Movement,Financial Services (ETF)
 16306,@saltwaternurse $INO can test 10 again in next few days. time to take some profits here. or hedge with puts.,INO,NEG,post,Stock Affairs,Stock Price Movement,Biotechnology
@@ -670,7 +670,7 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 16417,$ROST Ross Stores Upgraded to Outperform at RBC Capital Markets http://stks.co/j0Q9t,ROST,POS,post,Stock Affairs,Other Stock Affairs,Apparel Retail
 16433,$ARIA Bounce Player! Long above $6.17 http://stks.co/q0WfF,ARIA,POS,post,Stock Affairs,Stock Price Movement,Biotechnology
 16435,"$TSLA looking good..i'd love to see a basing action here, letting the RSI take a breather. http://stks.co/g1T7c",TSLA,POS,post,Stock Affairs,Stock Price Movement,Auto Manufacturers
-16438,$RAD I would consider this opportunity to add my position because the company is on the right track they are still improving sales...,RAD,POS,post,Business Operations,"Sales, Market Share Changes",Specialty Retail
+16438,$RAD I would consider this opportunity to add my position because the company is on the right track they are still improving sales...,RAD,POS,post,Financial Affairs,Other Financial Affairs,Specialty Retail
 16440,$GTAT Will re-enter short on bounce...,GTAT,NEG,post,Stock Affairs,Stock Price Movement,Semiconductors
 16450,$TROW Ascending triangle gives a bullish bias to this chart. Breakout above 84 will be positive http://stks.co/g0ls5,TROW,POS,post,Stock Affairs,Stock Price Movement,Asset Management
 16464,$AEGN MACD and ADX are crossing over the signal lines! Long Setup http://stks.co/qzzx,AEGN,POS,post,Stock Affairs,Stock Price Movement,Biotechnology
@@ -688,7 +688,7 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 16517,$Oil slid to a four-year low after #OPEC kept its oil production unchanged  http://stks.co/a1IX4 $USO $WTI $Brent,WTI,NEG,post,Stock Affairs,Stock Price Movement,Oil & Gas E&P
 16525,$CDTI bounce here on support or H&S setup this area is very important for bulls to not lose http://stks.co/c0mf3,CDTI,POS,post,Stock Affairs,Stock Price Movement,Auto Parts
 16526,$LNKD Daily Phase 2 retest - Price experiencing early rejection. Can it retest? http://stks.co/t04xX,LNKD,NEG,post,Stock Affairs,Stock Price Movement,Internet Content & Information
-16536,3-star analyst Joe Wittine from Longbow Research reiterated a HOLD rating on $NTAP.,NTAP,POS,post,Other,Other,Computer Hardware
+16536,3-star analyst Joe Wittine from Longbow Research reiterated a HOLD rating on $NTAP.,NTAP,POS,post,Stock Affairs,Other Stock Affairs,Computer Hardware
 16555,$GOOG Testing the 200 day after some consolidation http://stks.co/h0cPJ,GOOG,POS,post,Stock Affairs,Stock Price Movement,Internet Content & Information
 16569,Walter Investment Management Corp Receives a Sell from Compass Point $WAC http://stks.co/c1IvX,WAC,NEG,post,Stock Affairs,Other Stock Affairs,Oil & Gas Exploration & Production
 16587,"So as of today's close (8/15/14), I'm long $TSLA $AMTD $TWTR $FB $AAPL $CELG - all on a longer-term, technical swing long basis.",TWTR,POS,post,Stock Affairs,Stock Price Movement,Internet Content & Information
@@ -716,7 +716,7 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 16698,"09:01 AM      $AKS  DJ AK Steel Revenue Rises 36% on Auto Sector Demand, Acquisition",AKS,POS,post,Financial Affairs,Profit Announcement,Metals & Mining
 16699,$BBRY both 1m/6m trends turn bullish today with a resistance level at $11.31. http://stks.co/j1qt6,BBRY,POS,post,Stock Affairs,Stock Price Movement,Communication Equipment
 16700,Long $GPRO for a brealout trade,GPRO,POS,post,Stock Affairs,Stock Price Movement,Consumer Electronics
-16706,$UGAZ Will this cold put a dent in the massive horizontal rig production. Who knows  http://stks.co/p1V6P,UGAZ,NEG,post,Other,Other,Energy - Oil & Gas
+16706,$UGAZ Will this cold put a dent in the massive horizontal rig production. Who knows  http://stks.co/p1V6P,UGAZ,NEG,post,Business Operations,Other Business Operations Affairs,Energy - Oil & Gas
 16708,$ISRG - ISRG Short - http://stks.co/f1vVU http://stks.co/c1qrm,ISRG,NEG,post,Stock Affairs,Stock Price Movement,Medical Instruments & Supplies
 16716,"$HPQ Says Breakup Will Cost Billions, but Sees Savings Too http://stks.co/p27hZ",HPQ,NEG,post,Compliance and Credit,Other Compliance and Credit Affairs,Computer Hardware
 16740,@Renatta @Fr0van @kjepeneter @RPTL  Strong close 4 $PLNR  coming,PLNR,POS,post,Stock Affairs,Stock Price Movement,Semiconductors
@@ -764,7 +764,7 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 16982,$NKE gapping up to all time highs http://stks.co/q1jAu #tradeideas http://stks.co/r1j6c,NKE,POS,post,Stock Affairs,Stock Price Movement,Footwear & Accessories
 16986,@Intuitiv $CLNE gasoline prices spike in California. http://stks.co/t1bOi,CLNE,POS,post,Stock Affairs,Stock Price Movement,Oil & Gas Refining & Marketing
 16994,ESPN Files Lawsuit Against Verizon - http://stks.co/i2Cj1 $VZ,VZ,NEG,post,Compliance and Credit,Company Litigation,Telecom Services
-17008,$AVGO great growth stk &  also raised dividend . clearly a great investment http://stks.co/r2F3h,AVGO,POS,post,Other,Other,Semiconductors
+17008,$AVGO great growth stk &  also raised dividend . clearly a great investment http://stks.co/r2F3h,AVGO,POS,post,Shareholder Affairs,Other Shareholder Affairs,Semiconductors
 17010,"$RXII Tang really is toxic, they keep bringing the share price down. At least they could let it climb a little before dragging it down.",RXII,NEG,post,Stock Affairs,Stock Price Movement,Biotechnology
 17020,$AAPL near a 3% drop thats a lot... now the best i can do is HOLD ER lol,AAPL,NEG,post,Stock Affairs,Stock Price Movement,Consumer Electronics
 17025,$HCP Come to the party and buy this -gonna give solid gains and a dividend $$$$$$,HCP,POS,post,Shareholder Affairs,Other Shareholder Affairs,Real Estate Investment Trusts (REITs)
@@ -775,7 +775,7 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 17055,$CRK time to accumulate for a long position with far more upside than downside,CRK,POS,post,Stock Affairs,Stock Price Movement,Oil & Gas E&P
 17066,$BWLD bearish engulfing candle,BWLD,NEG,post,Stock Affairs,Stock Price Movement,Restaurants
 17075,for @vnoto74 to follow:  after a SELL signal by $NDX internals [06/23] ~> technical SELL $QQQ [06/25] ~> DOWN,QQQ,NEG,post,Stock Affairs,Stock Price Movement,Financial Services (ETF)
-17077,$AWR Standard & Poor's Affirms 'A+' Credit Rating at American States Water Company and Golden State Water Company http://stks.co/f2P94,AWR,POS,post,Compliance and Credit,Rating Adjustment,Utilities - Regulated Water
+17077,$AWR Standard & Poor's Affirms 'A+' Credit Rating at American States Water Company and Golden State Water Company http://stks.co/f2P94,AWR,POS,post,Financial Affairs,Other Financial Affairs,Utilities - Regulated Water
 17080,$FREE Ha Heeeeeere comes the pump! So glad I picked up 9K end of day! Get ready for the bull ride!,FREE,POS,post,Stock Affairs,Stock Price Movement,Biotechnology
 17082,$NUAN held up well after the big gains! Maybe we're finally on the move on this!!its still very undervalued and has major upside,NUAN,POS,post,Stock Affairs,Stock Price Movement,Software
 17085,Why $MCD looks set to fall further. http://stks.co/f2fgj,MCD,NEG,post,Stock Affairs,Stock Price Movement,Restaurants
@@ -817,9 +817,9 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 17359,"$QCOM chart: Qualcomm Short 61.8% Retracement, Trendline and Resistance. https://t.co/2WQqh35KOY",QCOM,NEG,post,Stock Affairs,Stock Price Movement,Semiconductors
 17373,"$INTU is in the process of streamlining its structure, especially through divestment of non-core businesses   https://t.co/dR5baNun2u",INTU,POS,post,Business Operations,Other Business Operations Affairs,Software - Application
 17383,"$TSLA steaming up again, this stock is relentless at the moment",TSLA,POS,post,Stock Affairs,Stock Price Movement,Auto Manufacturers
-17387,.@barronsonline sees #Apple at $150/share in a year (+36% from today) on growing services business. $AAPL https://t.co/3BDNEKN7l1,AAPL,POS,post,Business Operations,Other Business Operations Affairs,Consumer Electronics
-17404,Adobe Receives New Rating from Top Analyst $ADBE https://t.co/LJNXPEvHZN,ADBE,POS,post,Compliance and Credit,Rating Adjustment,Software - Application
-17409,Activision Blizzard Media Networks Announces Record #Esports Viewership https://t.co/729BiqLbtK $ATVI partnered with $HDSI for 9 #tournament,HDSI,POS,post,Business Operations,"Sales, Market Share Changes",Biotechnology
+17387,.@barronsonline sees #Apple at $150/share in a year (+36% from today) on growing services business. $AAPL https://t.co/3BDNEKN7l1,AAPL,POS,post,Stock Affairs,Other Stock Affairs,Consumer Electronics
+17404,Adobe Receives New Rating from Top Analyst $ADBE https://t.co/LJNXPEvHZN,ADBE,POS,post,Financial Affairs,Other Financial Affairs,Software - Application
+17409,Activision Blizzard Media Networks Announces Record #Esports Viewership https://t.co/729BiqLbtK $ATVI partnered with $HDSI for 9 #tournament,HDSI,POS,post,Financial Affairs,Other Financial Affairs,Biotechnology
 17423,"Also, BMO had just initiated $incy with an outperform yesterday, while several other firms all reiterated buy ratings.",INCY,POS,post,Stock Affairs,Other Stock Affairs,Biotechnology
 645,"Britain's FTSE steadies, supported by Dixons Carphone",Dixons Carphone,POS,headline,Stock Affairs,Stock Price Movement,Specialty Retail
 651,Glaxo's ViiV Healthcare Signs China Manufacturing Deal With Desano,Glaxo,POS,headline,Business Operations,Initiating Cooperation,Drug Manufacturers - General
@@ -827,7 +827,7 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 659,UPDATE 5-Barclays Chairman McFarlane axes CEO to speed up strategic change,Barclays,NEG,headline,Business Operations,Other Business Operations Affairs,Banks - Diversified
 665,Miners Meltdown as BHP to Rio Tinto Sink in Commodities Rout,Rio Tinto,NEG,headline,Stock Affairs,Stock Price Movement,Other Industrial Metals & Mining
 669,"FTSE led lower by M&S, GlaxoSmithKline",M&S,NEG,headline,Stock Affairs,Stock Price Movement,Department Stores
-67,Morrisons faces festive sales test,Morrisons,NEG,headline,Business Operations,"Sales, Market Share Changes",Food Retail
+67,Morrisons faces festive sales test,Morrisons,NEG,headline,Financial Affairs,Other Financial Affairs,Food Retail
 670,GKN to buy Fokker Technologies for 706 mln euros,GKN,POS,headline,Financing and Investment,Mergers and Acquisitions,Aerospace & Defense
 671,Diageo Sells Ryder Cup Venue Gleneagles Hotel to Ennismore Group,Gleneagles Hotel,POS,headline,Business Operations,Initiating Cooperation,"Hotels, Resorts & Cruise Lines"
 671,Diageo Sells Ryder Cup Venue Gleneagles Hotel to Ennismore Group,Ennismore Group,POS,headline,Business Operations,Initiating Cooperation,"Hotels, Resorts & Cruise Lines"
@@ -836,7 +836,7 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 680,"CompaniesNew Aggreko CEO to reshape business, strip costs",Aggreko,POS,headline,Business Operations,Other Business Operations Affairs,Machinery
 682,AstraZeneca to Pay Inovio Up to $700 Million for Cancer Drug,Inovio,POS,headline,Business Operations,Initiating Cooperation,Biotechnology
 686,Rio Tinto CEO says iron ore market at equilibrium,Rio Tinto,NEU,headline,Business Operations,"Sales, Market Share Changes",Other Industrial Metals & Mining
-687,US sanctions put Gazprom-Shell alliance plans in jeopardy,Shell,NEG,headline,Other,Other,Oil & Gas - Integrated
+687,US sanctions put Gazprom-Shell alliance plans in jeopardy,Shell,NEG,headline,Compliance and Credit,Other Compliance and Credit Affairs,Oil & Gas - Integrated
 688,Standard Chartered Not Raising Capital Yet As Dividend Cut,Standard Chartered,NEG,headline,Shareholder Affairs,Other Shareholder Affairs,Banks - Diversified
 69,Tesco share price dips as Blinkbox Books closes ending supermarket's digital ...,Tesco,NEG,headline,Stock Affairs,Stock Price Movement,Grocery Stores
 69,Tesco share price dips as Blinkbox Books closes ending supermarket's digital ...,Blinkbox,NEG,headline,Stock Affairs,Stock Price Movement,Entertainment
@@ -846,24 +846,24 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 70,Shire to buy NPS for $5.2 billion to boost rare disease drugs,Shire,POS,headline,Financing and Investment,Mergers and Acquisitions,Pharmaceuticals
 701,Novartis buys remaining rights to GSK treatment in deal up to $1 billion,Novartis,POS,headline,Business Operations,Initiating Cooperation,Drug Manufacturers - General
 702,"AstraZeneca bags another cancer drug deal, this time with Inovio",Inovio,POS,headline,Business Operations,Initiating Cooperation,Biotechnology
-704,REFILE-Aviva Investors to move 34 bln euros in assets from AXA fund arm,AXA,NEG,headline,Other,Other,Insurance
+704,REFILE-Aviva Investors to move 34 bln euros in assets from AXA fund arm,AXA,NEG,headline,Financing and Investment,Capital Flows,Insurance
 715,"L&G still paying price for dividend cut during crisis, chief says",L&G,NEG,headline,Shareholder Affairs,Other Shareholder Affairs,Asset Management
 726,Buffett's Company Reports 37 Percent Drop in 2Q Earnings,Berkshire Hathaway Inc.,NEG,headline,Business Operations,Other Business Operations Affairs,Insurance - Diversified
 730,Travis Perkins Hikes Dividend 20% As Profit And Revenue Rise,Travis Perkins,POS,headline,Shareholder Affairs,Other Shareholder Affairs,Industrial Distribution
-738,"Tesco, Asda sales fall as march of the discounters continues: Kantar",Tesco,NEG,headline,Business Operations,"Sales, Market Share Changes",Grocery Stores
+738,"Tesco, Asda sales fall as march of the discounters continues: Kantar",Tesco,NEG,headline,Financial Affairs,Other Financial Affairs,Grocery Stores
 741,Shire proposes $30 bln all-share tie-up with Baxalta,Shire,POS,headline,Financing and Investment,Mergers and Acquisitions,Pharmaceuticals
 742,Shire CEO steps up drive to get Baxalta board talking,Shire,POS,headline,Business Operations,Other Business Operations Affairs,Pharmaceuticals
-747,"Tesco, Asda sales fall as march of the discounters continues-Kantar",Asda,NEG,headline,Other,Other,Food Retail
+747,"Tesco, Asda sales fall as march of the discounters continues-Kantar",Asda,NEG,headline,Business Operations,"Sales, Market Share Changes",Food Retail
 758,Verizon and AT&T accused of hurting rivals,Verizon,NEG,headline,Compliance and Credit,Regulatory Inquiries,Telecom Services
 759,"FTSE 100 falls as China devaluation hits Burberry, mining stocks",Burberry,NEG,headline,Stock Affairs,Stock Price Movement,Luxury Goods
 76,AstraZeneca's MedImmune Inks Licensing Deal With Omnis Pharmaceuticals,Omnis Pharmaceuticals,POS,headline,Business Operations,Initiating Cooperation,Biotechnology
 764,"Nine banks including Barclays, Citi, agree to pay $2 billion to settle forex ...",Citi,NEG,headline,Compliance and Credit,Company Litigation,Banks - Diversified
 78,FDA approves Shire's Vyvanse for binge-eating disorder,Shire,POS,headline,Compliance and Credit,Regulatory Inquiries,Pharmaceuticals
-784,CompaniesCar insurer Hastings Group driving Â£180m IPO,Hastings Group,POS,headline,Other,Other,Insurance
-8,UPDATE 1-Dairy Crest loses a third of Morrisons milk contract,Morrisons,NEG,headline,Other,Other,Food Retail
+784,CompaniesCar insurer Hastings Group driving Â£180m IPO,Hastings Group,POS,headline,Stock Affairs,Stock Status,Insurance
+8,UPDATE 1-Dairy Crest loses a third of Morrisons milk contract,Morrisons,NEG,headline,Business Operations,"Sales, Market Share Changes",Food Retail
 808,Glencore slumps 25 pct as debt fears grow,Glencore,NEG,headline,Compliance and Credit,Other Compliance and Credit Affairs,Other Industrial Metals & Mining
 815,Horizonte acquires neighbouring Glencore nickel property in Brazil,Horizonte,POS,headline,Financing and Investment,Mergers and Acquisitions,Metals & Mining
-82,Companies Thetrainline.com announces arrival of London IPO,Thetrainline.com,POS,headline,Other,Other,Travel Services
+82,Companies Thetrainline.com announces arrival of London IPO,Thetrainline.com,POS,headline,Stock Affairs,Stock Status,Travel Services
 820,UPDATE 1-Engineering firm Smiths Group confirms CEO appointment,Morrissons,POS,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Food Retail
 821,Industry NewsMorrisons unveils which stores will close as 900 jobs face the axe,Morrissons,NEG,headline,Business Operations,Other Business Operations Affairs,Food Retail
 827,Glencore slumps 30 percent as debt fears grow,Glencore,NEG,headline,Compliance and Credit,Other Compliance and Credit Affairs,Other Industrial Metals & Mining
@@ -888,16 +888,16 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 88,Tesco share price jumps as Q3 sales top estimates,Tesco,POS,headline,Stock Affairs,Stock Price Movement,Grocery Stores
 885,AstraZeneca diabetes drug combination faces delay after FDA rebuff,AstraZeneca,NEG,headline,Compliance and Credit,Other Compliance and Credit Affairs,Drug Manufacturers - General
 891,Mylan Appoints Ranjan Ray Chaudhuri as Global Commercial Lead for Mylan's Over ...,Mylan,NEU,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Pharmaceuticals
-896,SABMiller revenue hit by weaker EM currencies,SAB Miller,NEG,headline,Other,Other,Beverages - Brewers
+896,SABMiller revenue hit by weaker EM currencies,SAB Miller,NEG,headline,Stock Affairs,Other Stock Affairs,Beverages - Brewers
 897,UPDATE 5-SABMiller rejects AB InBev's $104 bln takeover approach,SAB Miller,POS,headline,Financing and Investment,Mergers and Acquisitions,Beverages - Brewers
 90,CRH's concrete bid for Holcim Lafarge assets,Holcim Lafarge,POS,headline,Stock Affairs,Stock Price Movement,Building Materials
 907,Market Report: Eight-day rally ends for FTSE 100 and Standard Chartered,Standard Chartered,POS,headline,Business Operations,"Sales, Market Share Changes",Banks - Diversified
 908,AB InBev offers SABMiller $3 billion breakup fee,SAB Miller,POS,headline,Financing and Investment,Mergers and Acquisitions,Beverages - Brewers
-912,GSK joins China trade push as UK trumpets healthcare deals,GSK,POS,headline,Other,Other,Drug Manufacturers - General
+912,GSK joins China trade push as UK trumpets healthcare deals,GSK,POS,headline,Business Operations,Other Business Operations Affairs,Drug Manufacturers - General
 914,AB InBev ups offer for SABMiller as deadline looms,SAB Miller,POS,headline,Financing and Investment,Mergers and Acquisitions,Beverages - Brewers
 919,Tesco PLC's Recovery Continues With A Â£250m Cash Infusion,Tesco,POS,headline,Financial Affairs,Other Financial Affairs,Grocery Stores
 922,"METALS-Zinc surges 12 pct after Glencore cuts output, fuelling metals rally",Glencore,POS,headline,Stock Affairs,Stock Price Movement,Other Industrial Metals & Mining
-924,CompaniesUnilever sales lifted by ice cream in soft economy,Unilever,POS,headline,Business Operations,"Sales, Market Share Changes",Household & Personal Products
+924,CompaniesUnilever sales lifted by ice cream in soft economy,Unilever,POS,headline,Financial Affairs,Other Financial Affairs,Household & Personal Products
 939,AB InBev's Latest Bid Said Unlikely to Win SABMiller's Approval,SABMiller,POS,headline,Business Operations,Other Business Operations Affairs,Beverages – Brewers
 94,Persimmon share price climbs on 23% rise in full-year revenue,Persimmon,POS,headline,Stock Affairs,Stock Price Movement,Residential Construction
 941,Britain's FTSE forges ahead as Shire surges,Shire,POS,headline,Stock Affairs,Stock Price Movement,Pharmaceuticals
@@ -905,13 +905,13 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 943,Anheuser-Busch InBev Increases Offer for Rival SABMiller,SABMiller,POS,headline,Financing and Investment,Mergers and Acquisitions,Beverages – Brewers
 945,Why I'd Buy ARM Holdings plc And BHP Billiton plc Today,BHP Billiton,POS,headline,Business Operations,Other Business Operations Affairs,Other Industrial Metals & Mining
 946,Barclays PLC & Lloyds Banking Group PLC Are The 2 Banks I'd Buy Today,Lloyds,POS,headline,Business Operations,Other Business Operations Affairs,Banks - Regional
-952,EasyJet Dismisses Lufthansa Low-Cost Plan in Contest for Germany,Lufthansa,NEG,headline,Other,Other,Airlines
+952,EasyJet Dismisses Lufthansa Low-Cost Plan in Contest for Germany,Lufthansa,NEG,headline,Business Operations,Other Business Operations Affairs,Airlines
 96,Ruling sets lower limit on potential fine for BP,BP,NEG,headline,Compliance and Credit,Legal Affairs,Oil & Gas Integrated
 963,"EXCLUSIVE-BP, China's CNPC to unveil oil alliance - sources",CNPC,POS,headline,Business Operations,Other Business Operations Affairs,Oil & Gas Integrated
-965,SAB's Chairman Digs In With Board Divided on InBev Offer,SABMiller,POS,headline,Other,Other,Beverages – Brewers
+965,SAB's Chairman Digs In With Board Divided on InBev Offer,SABMiller,POS,headline,Business Operations,Other Business Operations Affairs,Beverages – Brewers
 966,Kinder Morgan and BP Form Joint Venture Limited Liability Company to Purchase ...,Kinder Morgan,POS,headline,Business Operations,Initiating Cooperation,Oil & Gas Midstream
 967,Supreme Court Upholds $236 Million Jury Award Against ExxonMobil,ExxonMobil,NEG,headline,Compliance and Credit,Legal Affairs,Oil & Gas Integrated
-972,Standard Chartered's Shares Plunge 7% After Fitch Downgrade,Standard Chartered,NEG,headline,Business Operations,Other Business Operations Affairs,Banks - Diversified
+972,Standard Chartered's Shares Plunge 7% After Fitch Downgrade,Standard Chartered,NEG,headline,Stock Affairs,Other Stock Affairs,Banks - Diversified
 98,Reed Elsevier share price slides on underwhelming full-year results,Reed Elsevier,NEG,headline,Stock Affairs,Stock Price Movement,Publishing
 980,WPP wins race for 'programmatic buying' agency Essence Digital,WPP,POS,headline,Financing and Investment,Mergers and Acquisitions,Advertising Agencies
 981,BHP Billiton share price: Brazil to sue Samarco for Â£3.5bn,Samarco,NEG,headline,Compliance and Credit,Company Litigation,Metals & Mining
@@ -922,7 +922,7 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 999,"HSBC shakes up board with two new business chiefs, three departures",HSBC,NEG,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Banks - Diversified
 18014,"Last month we added to our $GILD position and started a new one in $BWLD We see slow, steady, unspectacular growth going forward near term",GILD,POS,post,Financial Affairs,Other Financial Affairs,Drug Manufacturers - General
 18047,"$TSLA lots of green on the 5 min, watch the hourly $259.33 possible resistance currently @ $257.00",TSLA,POS,post,Stock Affairs,Stock Price Movement,Auto Manufacturers
-18050,$AMGN And #UCB Announce Positive Top-Line Results From Ph3 Study Evaluating Romosozumab In Men... https://t.co/4hBoUDR8B8 via @YahooFinance,AMGN,POS,post,Business Operations,"Sales, Market Share Changes",Drug Manufacturers - General
+18050,$AMGN And #UCB Announce Positive Top-Line Results From Ph3 Study Evaluating Romosozumab In Men... https://t.co/4hBoUDR8B8 via @YahooFinance,AMGN,POS,post,Financial Affairs,Other Financial Affairs,Drug Manufacturers - General
 18061,Sold some $TSLA Puts this morning Closed them at the close. Helps pay for monthly expenses,TSLA,NEG,post,Stock Affairs,Stock Price Movement,Auto Manufacturers
 18075,Windows 10 is awful why did it force an upgrade on my pc without my consent? #windows #Microsoft $msft,MSFT,NEG,post,Business Operations,Product Dynamics,Software - Infrastructure
 18077,$EXPE working on the second leg of its reversal run as it breaks another down trend and continues higher. https://t.co/76DSJysyR0,EXPE,POS,post,Stock Affairs,Stock Price Movement,Travel Services
@@ -938,24 +938,24 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 18145,#Fintech provider $CAFN Cachet Financial Solutions Surging Forward today post earnings Up +13.26% https://t.co/9BJ3csk2i9 $JKHY $FISV #Momo,CAFN,POS,post,Financial Affairs,Other Financial Affairs,Financial Services
 18151,"Really surprised by how much $FB has now fallen. Thought there'd be some support around the 50d, but I guess not.",FB,NEG,post,Stock Affairs,Stock Price Movement,Internet Content & Information
 18152,$tsla bad day to short,TSLA,POS,post,Stock Affairs,Stock Price Movement,Auto Manufacturers
-18154,"$TSLA TO RECALL 2,700 MODEL X SUVS FOR SEAT-BELT FIX",TSLA,NEG,post,Other,Other,Auto Manufacturers
-18164,5 Best Analyst Rated Stocks in Last 72hrs: $ORCL $AAPL $CBS $INO $CPXX View all ratings here: https://t.co/IRID6zd5gc,ORCL,POS,post,Other,Other,Software - Infrastructure
+18154,"$TSLA TO RECALL 2,700 MODEL X SUVS FOR SEAT-BELT FIX",TSLA,NEG,post,Business Operations,Product Dynamics,Auto Manufacturers
+18164,5 Best Analyst Rated Stocks in Last 72hrs: $ORCL $AAPL $CBS $INO $CPXX View all ratings here: https://t.co/IRID6zd5gc,ORCL,POS,post,Stock Affairs,Other Stock Affairs,Software - Infrastructure
 18169,Bought some more $CELG as it is ready for a bounce.,CELG,POS,post,Stock Affairs,Stock Price Movement,Biotechnology
-18170,Analysts impressed with progress at Tesla's flagship factory; co spent $1.6B on upgrades in '15 https://t.co/SABxCSn8cd by @tsrandall $TSLA,TSLA,POS,post,Other,Other,Auto Manufacturers
+18170,Analysts impressed with progress at Tesla's flagship factory; co spent $1.6B on upgrades in '15 https://t.co/SABxCSn8cd by @tsrandall $TSLA,TSLA,POS,post,Stock Affairs,Other Stock Affairs,Auto Manufacturers
 18180,"$CELG back near 104, where it opened and rallied higher last wk. A good place to take a shot https://t.co/zwHThSvFSF",CELG,POS,post,Stock Affairs,Stock Price Movement,Biotechnology
 18185,$AMZN new HOD with conviction keeping $570 on watch for Resistance.,AMZN,POS,post,Stock Affairs,Stock Price Movement,Internet Retail
 18186,$FB  rejecting HIGHS shortable...at 109,FB,NEG,post,Stock Affairs,Stock Price Movement,Internet Content & Information
 18196,"$CSX is up today to report.  Wall Street is expecting EPS to be at $0.37, and revenues at $2,732B.",CSX,POS,post,Financial Affairs,Profit Announcement,Railroads
 18206,$FB turns back down in early trading.... https://t.co/reuf5PzhBm,FB,NEG,post,Stock Affairs,Stock Price Movement,Internet Content & Information
 18207,Followed the levels I shared with you on $NFLX $GOOGL $TSLA calls for nice gains. Still holding $FB 110 calls. Week made in a morning.,FB,POS,post,Stock Affairs,Stock Price Movement,Internet Content & Information
-18211,"$FAST $GWW - daily sales slowing again, pretty timely coincident indicator https://t.co/m6BKHBkzK5",GWW,NEG,post,Business Operations,"Sales, Market Share Changes",Industrial Distribution
-18213,"Tesla Motors recalls 2,700 Model X SUVs $TSLA https://t.co/xDGrAExkKz",TSLA,NEG,post,Other,Other,Auto Manufacturers
-18217,"SiriusXM added 465,000 net new subscribers in the first quarter of 2016 $SIRI #CEO #sales #marketresearch #tech #entrepreneur #Speaker",SIRI,POS,post,Business Operations,"Sales, Market Share Changes",Entertainment
+18211,"$FAST $GWW - daily sales slowing again, pretty timely coincident indicator https://t.co/m6BKHBkzK5",GWW,NEG,post,Financial Affairs,Other Financial Affairs,Industrial Distribution
+18213,"Tesla Motors recalls 2,700 Model X SUVs $TSLA https://t.co/xDGrAExkKz",TSLA,NEG,post,Business Operations,Product Dynamics,Auto Manufacturers
+18217,"SiriusXM added 465,000 net new subscribers in the first quarter of 2016 $SIRI #CEO #sales #marketresearch #tech #entrepreneur #Speaker",SIRI,POS,post,Financial Affairs,Other Financial Affairs,Entertainment
 18218,5-star analyst @brianwieser from Pivotal Research upgraded rating on $GOOGL to BUY. Brian has a 79% success rate https://t.co/t0dn02EOH5,GOOGL,POS,post,Stock Affairs,Other Stock Affairs,Internet Content & Information
 18219,Long $ENDP @ $26.23 on $AGN b/o rumor,ENDP,POS,post,Stock Affairs,Stock Price Movement,Biotechnology
-18226,"You know that back seat? Don't sit in it. - $TSLA -> Tesla recalls 2,700 Model X cars https://t.co/7J0Gwz89ZC",TSLA,NEG,post,Other,Other,Auto Manufacturers
+18226,"You know that back seat? Don't sit in it. - $TSLA -> Tesla recalls 2,700 Model X cars https://t.co/7J0Gwz89ZC",TSLA,NEG,post,Business Operations,Product Dynamics,Auto Manufacturers
 18229,This $BBBY stock options trade would have more than doubled your money https://t.co/Oa0loiRIJL via @TheStreet,BBBY,POS,post,Stock Affairs,Other Stock Affairs,Specialty Retail
-18237,X marks the recall: Tesla recalls #ModelX for faulty 3rd row seat. https://t.co/HSqdoVry07 $TSLA https://t.co/4Cs3CNZEBB,TSLA,NEG,post,Other,Other,Auto Manufacturers
+18237,X marks the recall: Tesla recalls #ModelX for faulty 3rd row seat. https://t.co/HSqdoVry07 $TSLA https://t.co/4Cs3CNZEBB,TSLA,NEG,post,Business Operations,Product Dynamics,Auto Manufacturers
 18250,$STX move off the bottom but still in bear market #datasecurity $EMC $SNDK $WDC https://t.co/VkYdWPxeSN,WDC,NEG,post,Business Operations,"Sales, Market Share Changes",Computer Hardware
 18259,$VRTX early technical BUY signal... for confirmation > 86 it needs some fundam. incentive https://t.co/QuYSrqFo2x,VRTX,POS,post,Stock Affairs,Stock Price Movement,Biotechnology
 18272,$FB (110.20) is starting to show some relative strength and signs of potential B/O on the daily.,FB,POS,post,Stock Affairs,Stock Price Movement,Internet Content & Information
@@ -965,7 +965,7 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 18312,$GOOGL is a short below 740 into the upper BB and is overbought,GOOGL,NEG,post,Stock Affairs,Stock Price Movement,Internet Content & Information
 18313,Timberrrr $TSLA https://t.co/MRBgfDHHVa,TSLA,NEG,post,Stock Affairs,Stock Price Movement,Auto Manufacturers
 18323,Interest Heats Up for @Yahoo $YHOO - The Wall Street Journal  https://t.co/j5jVjI9bia,YHOO,POS,post,Business Operations,Other Business Operations Affairs,Internet Content & Information
-18340,"Tesla Recalling 2,700 Model X Units, Related to Faulty Latch for Third-Row Seats; Fall To $252.50 Level on Recall, Shares Up 1%  $TSLA",TSLA,NEG,post,Other,Other,Auto Manufacturers
+18340,"Tesla Recalling 2,700 Model X Units, Related to Faulty Latch for Third-Row Seats; Fall To $252.50 Level on Recall, Shares Up 1%  $TSLA",TSLA,NEG,post,Business Operations,Product Dynamics,Auto Manufacturers
 18349,Commented on It's Time To Embrace Dividend Growth https://t.co/wc2qfP79TN $ABBV $CSCO $WYN,WYN,POS,post,Shareholder Affairs,Other Shareholder Affairs,"Hotels, Resorts & Cruise Lines"
 18351,Word on the street is that Allergen is looking at Endo International after the failed Pfizer merger. May-20 $35 calls active. $ENDP,ENDP,POS,post,Financing and Investment,Mergers and Acquisitions,Biotechnology
 18354,$SBUX inverted head & shoulders pattern in the works. bullish.,SBUX,POS,post,Stock Affairs,Stock Price Movement,Restaurants
@@ -973,36 +973,36 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 18370,long $AAPL,AAPL,POS,post,Stock Affairs,Stock Price Movement,Consumer Electronics
 18383,$FB popping up to HOD,FB,POS,post,Stock Affairs,Stock Price Movement,Internet Content & Information
 18391,$TSLA yeah lets go down to 230s lol,TSLA,NEG,post,Stock Affairs,Stock Price Movement,Auto Manufacturers
-18420,#NDX component Tesla has announced it is recalling 2700 Model X SUVs. $TSLA,TSLA,NEG,post,Other,Other,Auto Manufacturers
+18420,#NDX component Tesla has announced it is recalling 2700 Model X SUVs. $TSLA,TSLA,NEG,post,Business Operations,Product Dynamics,Auto Manufacturers
 18421,$YHOO making new HOD,YHOO,POS,post,Stock Affairs,Stock Price Movement,Internet Content & Information
 18424,"Daily Mail owner considering Yahoo bid $yhoo ,up 2,05% https://t.co/extZr1riyP",YHOO,POS,post,Financing and Investment,Mergers and Acquisitions,Internet Content & Information
 18449,$PCLN Back to Back intraday reversals look out below. Shorts moving in!,PCLN,NEG,post,Stock Affairs,Stock Price Movement,Internet Content & Information
 18471,$PYPL great vol flow trade here.. Love this company long time.,PYPL,POS,post,Stock Affairs,Stock Price Movement,Credit Services
-18479,$ISRG PT raised to $700 from $640 at Leerink - keeps Outperform rated,ISRG,POS,post,Other,Other,Medical Instruments & Supplies
+18479,$ISRG PT raised to $700 from $640 at Leerink - keeps Outperform rated,ISRG,POS,post,Stock Affairs,Other Stock Affairs,Medical Instruments & Supplies
 18483,Long $TSLA short $MBLY https://t.co/jSpUSzo6na,TSLA,POS,post,Stock Affairs,Stock Price Movement,Auto Manufacturers
-18486,"$TSLA recalls 2,700 Model X cars. Stock dropping hard...",TSLA,NEG,post,Other,Other,Auto Manufacturers
+18486,"$TSLA recalls 2,700 Model X cars. Stock dropping hard...",TSLA,NEG,post,Business Operations,Product Dynamics,Auto Manufacturers
 18488,$AAPL - Has broken its downtrend - but 200DMA proving to be stiff resistance short term. https://t.co/VlzlgvIHZV,AAPL,POS,post,Stock Affairs,Stock Price Movement,Consumer Electronics
-18492,"potential defect with third-row seat belts. Tesla Motors recalls 2,700 Model X SUVs $TSLA https://t.co/YVYDncdNdi",TSLA,NEG,post,Other,Other,Auto Manufacturers
+18492,"potential defect with third-row seat belts. Tesla Motors recalls 2,700 Model X SUVs $TSLA https://t.co/YVYDncdNdi",TSLA,NEG,post,Business Operations,Product Dynamics,Auto Manufacturers
 18500,Netflix Grows Efforts To Create Loyal Customers $NFLX https://t.co/5QXBkoBphe,NFLX,POS,post,Business Operations,Other Business Operations Affairs,Entertainment
-18504,"Tesla Motors recalls 2,700 Model X SUVs $TSLA https://t.co/F55dx4aegI",TSLA,NEG,post,Other,Other,Auto Manufacturers
+18504,"Tesla Motors recalls 2,700 Model X SUVs $TSLA https://t.co/F55dx4aegI",TSLA,NEG,post,Business Operations,Product Dynamics,Auto Manufacturers
 18517,$FB $AAPL $NKE $JWN bearish charts keep getting worse.,NKE,NEG,post,Stock Affairs,Stock Price Movement,Footwear & Accessories
 18527,"Apple expected to launch new iPhone, iPad today $AAPL https://t.co/XfnICWeBeG",AAPL,POS,post,Business Operations,Product Dynamics,Consumer Electronics
 18542,$TSLA stock gaining steam... Plus other notable moves from this week: https://t.co/Hz0wdp5za1,TSLA,POS,post,Stock Affairs,Stock Price Movement,Auto Manufacturers
 18549,$GILD  is expanding its research facilities...keeping up with the pace of innovation  https://t.co/uOE7FJ4LOP,GILD,POS,post,Business Operations,Other Business Operations Affairs,Drug Manufacturers - General
 18561,"$ENDP - we saw a large order in this one last week, someone also accumulating May & Jun 35's Calls today",ENDP,POS,post,Stock Affairs,Stock Price Movement,Biotechnology
 18562,TripAdvisor jumps on M&A rumors https://t.co/O4lwCDXMbr $TRIP,TRIP,POS,post,Financing and Investment,Mergers and Acquisitions,Travel Services
-18564,Seat belt recall? who cares....  I'm a buyer $TSLA,TSLA,POS,post,Other,Other,Auto Manufacturers
+18564,Seat belt recall? who cares....  I'm a buyer $TSLA,TSLA,POS,post,Business Operations,Product Dynamics,Auto Manufacturers
 18581,$FB gettin in the buy zone soon ;),FB,POS,post,Stock Affairs,Stock Price Movement,Internet Content & Information
 18616,Starbucks downgraded on same day as new downgraded rewards program starts  $SBUX,SBUX,NEG,post,Stock Affairs,Other Stock Affairs,Restaurants
 18632,"$ADBE technical alerts: Expansion Breakout, Gilligan's Island Sell Setup, Volume Surge, and New 52... https://t.co/LxX66tknFH",ADBE,POS,post,Stock Affairs,Stock Price Movement,Software - Application
 18635,"$AAPL a new long IF 110.61 is broken. Targets are 112.19, 119.86 & 123.82. Bears must retake 102.77. $QQQ $NQ_F $NDX https://t.co/6l3m1wXChw",QQQ,POS,post,Stock Affairs,Stock Price Movement,Financial Services (ETF)
 18652,Thank you $GOOG (Google Alphabet) and $FB (Facebook) stocks! What a nice reversal.,GOOG,POS,post,Stock Affairs,Stock Price Movement,Internet Content & Information
-18672,"Tesla Motors recalls 2,700 Model X SUVs https://t.co/BFWS3DbM0U $TSLA",TSLA,NEG,post,Other,Other,Auto Manufacturers
+18672,"Tesla Motors recalls 2,700 Model X SUVs https://t.co/BFWS3DbM0U $TSLA",TSLA,NEG,post,Business Operations,Product Dynamics,Auto Manufacturers
 18676,"$AAPL bounces off support, it seems",AAPL,POS,post,Stock Affairs,Stock Price Movement,Consumer Electronics
 18678,Deutsche Bank downgrades Starbucks because of new loyalty program https://t.co/Iy4LCUGABc $SBUX,SBUX,NEG,post,Stock Affairs,Other Stock Affairs,Restaurants
 18684,$GOOGL gets an upgrade price target $970,GOOGL,POS,post,Stock Affairs,Other Stock Affairs,Internet Content & Information
 18692,NetApp downgraded by Macquarie to underperform. $22.00 PT. https://t.co/XCNgws0t4q $NTAP #NTAP via @RatingsNetwork,NTAP,NEG,post,Stock Affairs,Other Stock Affairs,Computer Hardware
-18707,"Tesla is recalling 2,700 Model X cars: https://t.co/8Z7BkVsTl9 $TSLA",TSLA,NEG,post,Other,Other,Auto Manufacturers
+18707,"Tesla is recalling 2,700 Model X cars: https://t.co/8Z7BkVsTl9 $TSLA",TSLA,NEG,post,Business Operations,Product Dynamics,Auto Manufacturers
 18708,$fb small long 109.25 via calls,FB,POS,post,Stock Affairs,Stock Price Movement,Internet Content & Information
 18712,Commodity Channel Index Indicator signaled a Oversold for $FB #stockmarket https://t.co/VM32d3M9xi https://t.co/cvkojk05Xn,FB,POS,post,Stock Affairs,Stock Price Movement,Internet Content & Information
 18724,"Isolationism? Another Sell Rating, Sell Ratings On SPY, QQQ, IWM And Several Companies https://t.co/6NKWEcrBA5 $AAPL $AXP $BAC $BLUE $FXE",FXE,NEG,post,Stock Affairs,Other Stock Affairs,Financial Services (ETF)
@@ -1012,7 +1012,7 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 18750,"$AMZN rejected that 604 to the penny. Weak open and it goes r/g within first 30 mins, could have 8-10 points in it. https://t.co/58tEAEXxpE",AMZN,NEG,post,Stock Affairs,Stock Price Movement,Internet Retail
 18766,$GOOGL is setting up above its 50-day moving average. https://t.co/tTm9RnFoXJ,GOOGL,POS,post,Stock Affairs,Stock Price Movement,Internet Content & Information
 18784,$FB still a dog going much lower this week,FB,NEG,post,Stock Affairs,Stock Price Movement,Internet Content & Information
-18800,Academics claim Google Android two-factor authentication is breakable. #security #authentication #hacking $goog https://t.co/nJx4mnrGLo,GOOG,NEG,post,Other,Other,Internet Content & Information
+18800,Academics claim Google Android two-factor authentication is breakable. #security #authentication #hacking $goog https://t.co/nJx4mnrGLo,GOOG,NEG,post,Business Operations,Other Business Operations Affairs,Internet Content & Information
 18819,ALERT: New MACD signal created on $CTXS - Buy at 77.09 - Time: 18:23 - Strength: 10. Powered by https://t.co/4TdgjEDLLZ,CTXS,POS,post,Stock Affairs,Stock Price Movement,Software
 18821,$BAC $ADSK $NFLX long this morning,NFLX,POS,post,Stock Affairs,Stock Price Movement,Entertainment
 18827,Locked in some $FB puts for nice gain,FB,NEG,post,Stock Affairs,Stock Price Movement,Internet Content & Information
@@ -1020,20 +1020,20 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 18840,Just went long $ILMN,ILMN,POS,post,Stock Affairs,Stock Price Movement,Diagnostics & Research
 18846,#Apple up almost 20% from its February lows with very little fanfare. $AAPL,AAPL,POS,post,Stock Affairs,Stock Price Movement,Consumer Electronics
 18857,$DISH weakness continues again. 49.43 area resistance after last week,DISH,NEG,post,Stock Affairs,Stock Price Movement,Media
-18867,$AAPL iPhone shipments on track to exceed forecasts - MarketWatch https://t.co/2CXahJIX7d,AAPL,POS,post,Business Operations,"Sales, Market Share Changes",Consumer Electronics
+18867,$AAPL iPhone shipments on track to exceed forecasts - MarketWatch https://t.co/2CXahJIX7d,AAPL,POS,post,Financial Affairs,Other Financial Affairs,Consumer Electronics
 18877,$COST short finally making gains. I will take half my gains at 147,COST,NEG,post,Stock Affairs,Other Stock Affairs,Discount Stores
 18895,Why $TWTR is doomed in 1 chart $FB $GOOG  https://t.co/MpyLiReQjh https://t.co/nlcZawDoHP,GOOG,NEG,post,Stock Affairs,Stock Price Movement,Internet Content & Information
 18903,Apple Inc.: The Rip-Roaring Rally Is Just Beginning! (AAPL) | InvestorPlace $AAPL https://t.co/jrcFC8XlY9,AAPL,POS,post,Stock Affairs,Stock Price Movement,Consumer Electronics
 18910,"Upside moves in the volatile #mining sector, sending Anglo American PLC $AAL up 6.8% as of 4:30 PM, London time",AAL,POS,post,Stock Affairs,Stock Price Movement,Airlines
-18926,"Tesla: Voluntary recall of 2,700 Model X vehicles, due to back seat issue. $TSLA https://t.co/NPAkc3U6GS",TSLA,NEG,post,Other,Other,Auto Manufacturers
+18926,"Tesla: Voluntary recall of 2,700 Model X vehicles, due to back seat issue. $TSLA https://t.co/NPAkc3U6GS",TSLA,NEG,post,Business Operations,Product Dynamics,Auto Manufacturers
 18932,@scottrade Why is $tsla not available for shorting at this time?  Same for $w?,W,NEG,post,Stock Affairs,Other Stock Affairs,Internet Retail
 18945,Deutsche Bank Downgraded Starbucks Co. $SBUX https://t.co/QqlEvVwPMV https://t.co/f2PdQjuTHa,SBUX,NEG,post,Stock Affairs,Other Stock Affairs,Restaurants
 18966,Coke dividend - 3%. Google dividend - 0%. For passive income Coke takes it. $GOOG $KO https://t.co/QBsoWjxOST,GOOG,NEG,post,Shareholder Affairs,Other Shareholder Affairs,Internet Content & Information
-18981,Juniper tumbles on Q1 warning; Cisco also lower https://t.co/N8X8BpLJ1E $JNPR $CSCO,JNPR,NEG,post,Other,Other,Communication Equipment
+18981,Juniper tumbles on Q1 warning; Cisco also lower https://t.co/N8X8BpLJ1E $JNPR $CSCO,JNPR,NEG,post,Financial Affairs,Profit Announcement,Communication Equipment
 18986,Looking for a strong bounce $SPY -- Lunchtime rally coming. $DIA $IWM $QQQ $AA $FB,SPY,POS,post,Stock Affairs,Stock Price Movement,Financial Services (ETF)
 18994,"DJI overbought: $AAPL, $AXP, $BA, $CVX, $IBM, $INTC, $VZ https://t.co/wMy1PnomJF",VZ,NEG,post,Stock Affairs,Stock Price Movement,Telecom Services
 19003,"Baird likes $TSLA - upgrades to outperform, lifts price target to $300. Research firm also sees no capital raise necessary in next few qtrs",TSLA,POS,post,Stock Affairs,Other Stock Affairs,Auto Manufacturers
-19007,$tsla X recall not a big deal... the problem is now they will have an excuse to guide way way lower...,TSLA,POS,post,Other,Other,Auto Manufacturers
+19007,$tsla X recall not a big deal... the problem is now they will have an excuse to guide way way lower...,TSLA,POS,post,Business Operations,Product Dynamics,Auto Manufacturers
 19011,$TSLA not dipping - testing the 200 day ma https://t.co/jEPLmZQKGW,TSLA,POS,post,Stock Affairs,Stock Price Movement,Auto Manufacturers
 19013,"On #FEDDAY looking for a sharp move up in equities $AAPL $HD $LOW $FB seeing $UVXY $TVIX getting hammered, even though market is down.",LOW,POS,post,Stock Affairs,Stock Price Movement,Home Improvement Retail
 19015,$JD down 20% in after-hour market. anyone care to explain why?,JD,NEG,post,Stock Affairs,Stock Price Movement,Internet Retail
@@ -1046,7 +1046,7 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 19095,"$SBUX down PM, from $DB downgrade.. PT cut from 70 to $64",SBUX,NEG,post,Stock Affairs,Other Stock Affairs,Restaurants
 19099,$EBAY  e-bay bay!  working on a couple daily dojis .. should continue to the downside  https://t.co/lgU0yBxEZe,EBAY,NEG,post,Stock Affairs,Stock Price Movement,Internet Retail
 19103,Breaking 52 week highs timing looks great now $AHS $BABY $POST $IGE $IRDM $EWBC $PHYS $ULTA $VNET $BIV https://t.co/11K8JzuzMU,VNET,POS,post,Stock Affairs,Stock Price Movement,Information Technology Services
-19105,$TSLA recalling pretty much every single model X @cnnbrk got to short that even at work you jump in money trade,TSLA,NEG,post,Other,Other,Auto Manufacturers
+19105,$TSLA recalling pretty much every single model X @cnnbrk got to short that even at work you jump in money trade,TSLA,NEG,post,Business Operations,Product Dynamics,Auto Manufacturers
 19107,$aapl high of day just hit. Back at it tomorrow.,AAPL,POS,post,Stock Affairs,Stock Price Movement,Consumer Electronics
 19117,ouch looks like $tsla shorts getting skinned again,TSLA,POS,post,Stock Affairs,Stock Price Movement,Auto Manufacturers
 19119,"Qualcomm: 10% Dividend Increase Rewards Patient Investors, The Future Looks Bright https://t.co/TJjVpqhHqD $QCOM",QCOM,POS,post,Shareholder Affairs,Other Shareholder Affairs,Semiconductors
@@ -1054,22 +1054,22 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 19149,$TSLA Wish had my puts back but see if we can find support around 243.39 and pop up so that I can get back in. https://t.co/hFkLq3WObV,TSLA,NEG,post,Stock Affairs,Stock Price Movement,Auto Manufacturers
 19161,Citrix Systems Inc $CTXS Position Increased by Mizuho… https://t.co/v7Lkq08Flp @ShareStockNews,CTXS,POS,post,Stock Affairs,Other Stock Affairs,Software
 19163,"Notable gainers among liquid option names this morning include $STX (+7.0%), $NEM (+4.6%), $WDC (+4.2%), $X (+4.1%), and $GME (+3.4%),",X,POS,post,Stock Affairs,Other Stock Affairs,Steel
-19167,Is #Facebook's user engagement falling? https://t.co/tqMMt7N16X $FB https://t.co/sedqRWgdkt,FB,NEG,post,Other,Other,Internet Content & Information
+19167,Is #Facebook's user engagement falling? https://t.co/tqMMt7N16X $FB https://t.co/sedqRWgdkt,FB,NEG,post,Business Operations,Other Business Operations Affairs,Internet Content & Information
 499,S&P downgrades Barclays and RBS on government bailout fears,RBS,NEG,headline,Stock Affairs,Other Stock Affairs,Banks
-502,Irish housebuilder Cairn Homes plans London listing,Cairn Homes,POS,headline,Other,Other,Homebuilding
-507,Arm slammed by handset sales outlook,Arm,NEG,headline,Business Operations,"Sales, Market Share Changes",Semiconductors
+502,Irish housebuilder Cairn Homes plans London listing,Cairn Homes,POS,headline,Stock Affairs,Stock Status,Homebuilding
+507,Arm slammed by handset sales outlook,Arm,NEG,headline,Financial Affairs,Other Financial Affairs,Semiconductors
 511,CompaniesLSE adds ex-SEC head Schapiro to board,LSE,POS,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Oil & Gas Equipment & Services
-512,Sales boost for new Morrisons chief David Potts as Tesco turnaround stalls,Tesco,NEG,headline,Business Operations,"Sales, Market Share Changes",Grocery Stores
+512,Sales boost for new Morrisons chief David Potts as Tesco turnaround stalls,Tesco,NEG,headline,Financial Affairs,Other Financial Affairs,Grocery Stores
 516,FTSE 100 flat; Standard Chartered leads risers,Standard Chartered,POS,headline,Stock Affairs,Stock Price Movement,Banks - Diversified
 517,CompaniesHoward Davies appointment as RBS director delayed,RBS,NEG,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Banks
 519,Keith Skeoch to step up as David Nish quits as chief executive of Standard Life,Standard Life,NEG,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Insurance
-52,Passengers rise at EasyJet and Aer Lingus,EasyJet,POS,headline,Business Operations,"Sales, Market Share Changes",Airlines
-520,Dixons Carphone profit boost on strong sales,Dixons Carphone,POS,headline,Business Operations,"Sales, Market Share Changes",Specialty Retail
+52,Passengers rise at EasyJet and Aer Lingus,EasyJet,POS,headline,Financial Affairs,Other Financial Affairs,Airlines
+520,Dixons Carphone profit boost on strong sales,Dixons Carphone,POS,headline,Financial Affairs,Other Financial Affairs,Specialty Retail
 521,"FTSE rallies off three-month low, boosted by StanChart, Sainsbury",Sainsbury,POS,headline,Stock Affairs,Stock Price Movement,Grocery Stores
 521,"FTSE rallies off three-month low, boosted by StanChart, Sainsbury",StanChart,POS,headline,Business Operations,"Sales, Market Share Changes",Banks - Diversified
 530,"Royal Mail, Johnson Matthey lead FTSE lower",Royal Mail,NEG,headline,Stock Affairs,Stock Price Movement,Integrated Freight & Logistics
 539,Sainsbury sales slip again as price pressures take a toll,Sainsbury,NEG,headline,Stock Affairs,Stock Price Movement,Grocery Stores
-540,Sophos aims to raise $100m in London IPO,Sophos,POS,headline,Other,Other,Software
+540,Sophos aims to raise $100m in London IPO,Sophos,POS,headline,Stock Affairs,Stock Status,Software
 541,UPDATE 3-Stifel to buy former Lehman brokerage from Barclays,Lehman,POS,headline,Financing and Investment,Mergers and Acquisitions,Investment Banking & Brokerage
 545,Borealis Infrastructure putting together new Severn Trent bid,Severn Trent,POS,headline,Financing and Investment,Mergers and Acquisitions,Utilities - Regulated Water
 546,"FTSE falls to 3-month low on Greek debt concerns, easyJet skids",easyjet,NEG,headline,Compliance and Credit,Other Compliance and Credit Affairs,Airlines
@@ -1080,13 +1080,13 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 55,Tesco Abandons Video-Streaming Ambitions in Blinkbox Sale,Tesco,NEG,headline,Business Operations,Other Business Operations Affairs,Grocery Stores
 552,Petrofac books further Â£30m cost for Shetland gas terminal delays,Petrofac,NEG,headline,Compliance and Credit,Other Compliance and Credit Affairs,Oil & Gas Equipment & Services
 553,Petrofac share price rises despite Â£30m costs on North Sea project,Petrofac,POS,headline,Stock Affairs,Stock Price Movement,Oil & Gas Equipment & Services
-554,Whitbread boss Andy Harrison defends sales fall as 'just a blip',Whitbread,NEG,headline,Business Operations,"Sales, Market Share Changes",Lodging
+554,Whitbread boss Andy Harrison defends sales fall as 'just a blip',Whitbread,NEG,headline,Financial Affairs,Other Financial Affairs,Lodging
 555,Barclays share price subdued as bank faces fresh forex probe,Barclays,NEG,headline,Stock Affairs,Stock Price Movement,Banks - Diversified
 556,CompaniesActelion shares hit record on Shire takeover talk,Actelion,POS,headline,Business Operations,Other Business Operations Affairs,Biotechnology
 556,CompaniesActelion shares hit record on Shire takeover talk,Shire,POS,headline,Business Operations,Other Business Operations Affairs,Pharmaceuticals
 56,"FDA approves NPS drug, in move validating Shire takeover deal",Shire,POS,headline,Financing and Investment,Mergers and Acquisitions,Pharmaceuticals
 563,LSE gets Hong Kong regulatory nod to HK firms to become LSE members,LSE,POS,headline,Compliance and Credit,Regulatory Inquiries,Oil & Gas Equipment & Services
-573,Diageo Shares Surge on Report of Possible Takeover by Lemann,Diageo,POS,headline,Other,Other,Beverages - Wineries & Distilleries
+573,Diageo Shares Surge on Report of Possible Takeover by Lemann,Diageo,POS,headline,Stock Affairs,Stock Price Movement,Beverages - Wineries & Distilleries
 576,RBS chairman admits surprise at size of regulatory penalties,RBS,NEG,headline,Compliance and Credit,Regulatory Inquiries,Banks
 584,RSA Insurance Hires Towergate's Egan as Chief Financial Officer,Towergate,POS,headline,Management Affairs,"Directors, Supervisors, and Senior Executives Dynamics",Insurance
 590,Johnson Matthey raises prospect of investor payout,Johnson Matthey,POS,headline,Shareholder Affairs,Other Shareholder Affairs,Specialty Chemicals
@@ -1095,7 +1095,7 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 60,Ocwen Reaches Settlement With California Regulator,Ocwen,POS,headline,Compliance and Credit,Company Litigation,Mortgage Finance
 601,FDA Approves AstraZeneca's Iressa As Lung Cancer Treatment,AstraZeneca,POS,headline,Compliance and Credit,Regulatory Inquiries,Drug Manufacturers - General
 602,AstraZeneca suffers setback after drug fails to treat eye cancer,AstraZeneca,NEG,headline,Compliance and Credit,Other Compliance and Credit Affairs,Drug Manufacturers - General
-613,British American Tobacco first-half sales hurt by currency moves,British American Tobacco,NEG,headline,Other,Other,Tobacco
+613,British American Tobacco first-half sales hurt by currency moves,British American Tobacco,NEG,headline,Stock Affairs,Other Stock Affairs,Tobacco
 614,Zurich Insurance Considering Offer for UK Rival RSA Insurance,Zurich Insurance,POS,headline,Business Operations,Other Business Operations Affairs,Insurance - Diversified
 616,Japan's Nikkei lands Financial Times in $1.3 billion deal,Nikkei,POS,headline,Business Operations,Initiating Cooperation,Financial Services (Index)
 622,"Ingenious, HSBC, UBS and Coutts sued by 'tax avoidance' clients",UBS,NEG,headline,Compliance and Credit,Company Litigation,Banks - Diversified
@@ -1103,19 +1103,19 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 622,"Ingenious, HSBC, UBS and Coutts sued by 'tax avoidance' clients",Coutts,NEG,headline,Compliance and Credit,Company Litigation,Private Banking
 624,UPDATE 1-AstraZeneca sells rare cancer drug to Sanofi for up to $300 mln,Sanofi,POS,headline,Business Operations,Initiating Cooperation,Drug Manufacturers - General
 627,Sainsbury sells unit to LloydsPharmacy,Sainsbury,POS,headline,Business Operations,Initiating Cooperation,Grocery Stores
-632,BAE Systems's sales boosted by European Typhoon and currencies,BAE Systems,POS,headline,Business Operations,"Sales, Market Share Changes",Aerospace & Defense
+632,BAE Systems's sales boosted by European Typhoon and currencies,BAE Systems,POS,headline,Financial Affairs,Other Financial Affairs,Aerospace & Defense
 634,"Royal Mail 'breached competition law' over delivery service changes, Ofcom claims",Royal Mail,NEG,headline,Compliance and Credit,Legal Affairs,Integrated Freight & Logistics
 17425,@REC_Zakaria Monday Bulls Are Out! Stock Ticker- Michael James Ent. Other picks $SBUX $GVP $NKE,SBUX,POS,post,Stock Affairs,Stock Price Movement,Restaurants
-17431,#Tesla: Model X Recall Adds To Reliability Issues $TSLA https://t.co/jVXQ4DoXnP,TSLA,NEG,post,Other,Other,Auto Manufacturers
+17431,#Tesla: Model X Recall Adds To Reliability Issues $TSLA https://t.co/jVXQ4DoXnP,TSLA,NEG,post,Business Operations,Product Dynamics,Auto Manufacturers
 17436,Microsoft joins the open-source Eclipse Foundation https://t.co/z8G5cZaKeU focus on collaboration & open business is a smart strategy! $MSFT,MSFT,POS,post,Business Operations,Other Business Operations Affairs,Software - Infrastructure
-17437,"Sudden optimism about iPhone sales (i.e., not as bad as expected) gives Apple $AAPL a lift.  https://t.co/oKTCw4YiB5",AAPL,POS,post,Business Operations,"Sales, Market Share Changes",Consumer Electronics
+17437,"Sudden optimism about iPhone sales (i.e., not as bad as expected) gives Apple $AAPL a lift.  https://t.co/oKTCw4YiB5",AAPL,POS,post,Financial Affairs,Other Financial Affairs,Consumer Electronics
 17446,$NFLX +1% $104.80 LONG streaming services rapidly outpacing traditional cable,NFLX,POS,post,Stock Affairs,Stock Price Movement,Entertainment
 17453,Infection worries prompt regulatory reviews of Gilead leukaemia drug $GILD https://t.co/H9vqXpZ15G via @YahooFinance,GILD,NEG,post,Compliance and Credit,Regulatory Inquiries,Drug Manufacturers - General
 17455,Preparing for a Breakout Trade in Netflix $NFLX  https://t.co/CzHIX3tuAG $$ https://t.co/z1qb9xa4LD,NFLX,POS,post,Stock Affairs,Stock Price Movement,Entertainment
 17457,"$CTRP just broke resistance, watching for a #redtogreen #breakout right out of the gate tomorrow morning. #stocks https://t.co/8VXFUUIt04",CTRP,POS,post,Stock Affairs,Stock Price Movement,Internet Content & Information
 17471,Deutsche Bank cuts $SBUX,SBUX,NEG,post,Stock Affairs,Other Stock Affairs,Restaurants
 17477,"Fastenal misses by $0.01, misses on revenue $FAST #NYSE https://t.co/63JHQ7pwMN",FAST,NEG,post,Financial Affairs,Profit Announcement,Industrial Distribution
-17508,$TSLA recall,TSLA,NEG,post,Other,Other,Auto Manufacturers
+17508,$TSLA recall,TSLA,NEG,post,Business Operations,Product Dynamics,Auto Manufacturers
 17512,Piper upgrades Symantec on improving renewal rates and enterprise growth $SYMC,SYMC,POS,post,Stock Affairs,Other Stock Affairs,Software
 17514,#FusionIQ NEW Positive Timing Signal on $SBUX Today https://t.co/9ImlXz4YNa Please Retweet #Signals,SBUX,POS,post,Stock Affairs,Stock Price Movement,Restaurants
 17525,#LongPos $TSLA 256 Break-out thru 50 & 200- DMA (197-230) upper head res (274-279) Short squeeze in progress Nr term obj: 310 Stop loss:239,TSLA,POS,post,Stock Affairs,Stock Price Movement,Auto Manufacturers
@@ -1127,16 +1127,16 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 17590,Today I bought more $MU $YHOO $VALE $NBL $TWTR $AXP $ZNGA https://t.co/Vt6T5Zp2is,ZNGA,POS,post,Stock Affairs,Stock Price Movement,Interactive Home Entertainment
 17591,Hard to find new buyers of $TSLA at 250.  Shorts continue to pile in.,TSLA,NEG,post,Stock Affairs,Other Stock Affairs,Auto Manufacturers
 17631,"$AMZN trades in mid to upper range. No break out yet, either direction",AMZN,POS,post,Stock Affairs,Stock Price Movement,Internet Retail
-17636,$TSLA announces a recall and the stock doesn't sell off. This stock is teflon. Won't last forever.,TSLA,POS,post,Other,Other,Auto Manufacturers
+17636,$TSLA announces a recall and the stock doesn't sell off. This stock is teflon. Won't last forever.,TSLA,POS,post,Business Operations,Product Dynamics,Auto Manufacturers
 17637,$NFLX and $TSLA making all kinds of gains 📈,TSLA,POS,post,Stock Affairs,Stock Price Movement,Auto Manufacturers
 17638,"@TraceyRyniec not just energy, it's so broad. You will see it in WWG and Kaman as well. I'd be short $fast",FAST,NEG,post,Stock Affairs,Stock Price Movement,Industrial Distribution
 17669,$AAPL Goldman Sachs reiterates conviction buy on Apple with a $155 PT $SPY $DJIA $GS https://t.co/h5hmXSITwM,SPY,POS,post,Stock Affairs,Other Stock Affairs,Financial Services (ETF)
-17670,Tesla issues its first Model X recall https://t.co/t1kMqVwhQQ $TSLA,TSLA,NEG,post,Other,Other,Auto Manufacturers
+17670,Tesla issues its first Model X recall https://t.co/t1kMqVwhQQ $TSLA,TSLA,NEG,post,Business Operations,Product Dynamics,Auto Manufacturers
 17671,$ENDP being sued by FTC.....nobody will buy them with that hanging over their heads,ENDP,NEG,post,Compliance and Credit,Company Litigation,Biotechnology
 17688,$TSLA weakest in todays DT watchlist,TSLA,NEG,post,Stock Affairs,Stock Price Movement,Auto Manufacturers
 17692,"$TSLA on fire, what is that 6 up days in a row. Someone neeeeds!! in",TSLA,POS,post,Stock Affairs,Stock Price Movement,Auto Manufacturers
 17724,$GILD chart: With $IBB back over support. https://t.co/GpRZ2UJFC4,IBB,POS,post,Stock Affairs,Stock Price Movement,Biotechnology (ETF)
-17729,"$KNDI #China #ElectricCar maker. China car sales +7.8%. Also, may feed off $TSLA momentum run lately.",TSLA,POS,post,Business Operations,"Sales, Market Share Changes",Auto Manufacturers
+17729,"$KNDI #China #ElectricCar maker. China car sales +7.8%. Also, may feed off $TSLA momentum run lately.",TSLA,POS,post,Financial Affairs,Other Financial Affairs,Auto Manufacturers
 17732,"took some $ENDP long this am, using VWAP as guide",ENDP,POS,post,Stock Affairs,Stock Price Movement,Biotechnology
 17733,"maybe closing all those $AAPL calls i had this morning was a bad idea, money left on the table...",AAPL,POS,post,Stock Affairs,Other Stock Affairs,Consumer Electronics
 17758,$AAPL weekly still under the 50 moving average and creating a lower high. https://t.co/vT7ppzY2UY,AAPL,NEG,post,Stock Affairs,Stock Price Movement,Consumer Electronics
@@ -1145,8 +1145,8 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 17773,$TSLA upgraded to Buy @ Argus w/ $333 PT - you'd almost think after ~100pt run in 5 weeks this would be the sell signal,TSLA,POS,post,Stock Affairs,Other Stock Affairs,Auto Manufacturers
 17780,$FB slight green... May be runner later,FB,POS,post,Stock Affairs,Stock Price Movement,Internet Content & Information
 17784,"$AAPL Stock Climbs as Barron's Sees 40% Upside, Jim Cramer's Take  https://t.co/lKlD9mVKBQ",AAPL,POS,post,Stock Affairs,Other Stock Affairs,Consumer Electronics
-17793,"Tesla to recall 2,700 Model X SUVs over seat issue https://t.co/OdPraN59Xq $TSLA https://t.co/xvn4blIwpy https://t.co/ThfvWTnRPs",TSLA,NEG,post,Other,Other,Auto Manufacturers
-17794,Juniper tumbles on Q1 warning; Cisco also lower $JNPR $CSCO https://t.co/bGvIntk43h,JNPR,NEG,post,Other,Other,Communication Equipment
+17793,"Tesla to recall 2,700 Model X SUVs over seat issue https://t.co/OdPraN59Xq $TSLA https://t.co/xvn4blIwpy https://t.co/ThfvWTnRPs",TSLA,NEG,post,Business Operations,Product Dynamics,Auto Manufacturers
+17794,Juniper tumbles on Q1 warning; Cisco also lower $JNPR $CSCO https://t.co/bGvIntk43h,JNPR,NEG,post,Financial Affairs,Profit Announcement,Communication Equipment
 17798,"$ATVI ooks pretty bullish for now. from a short-term perspective, it's got a good chance of maybe sliding back to 33.70 #stocks #investing",ATVI,POS,post,Stock Affairs,Stock Price Movement,Interactive Home Entertainment
 17805,$CTRP  breaking out here on good vol and a parser buy signal  ..noticed this on bob langs comments looking for 48 fast,CTRP,POS,post,Stock Affairs,Stock Price Movement,Internet Content & Information
 17807,"78 users on Vetr are bearish on Tesla Motors, Inc., indicating a SELL Rating (2 stars) for $TSLA https://t.co/vVpzqCXsNJ",TSLA,NEG,post,Stock Affairs,Other Stock Affairs,Auto Manufacturers
@@ -1155,12 +1155,12 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 17831,"$FB trend, hits mid 110's and drops",FB,NEG,post,Stock Affairs,Stock Price Movement,Internet Content & Information
 17833,$PCLN Trying to break daily trend line! Big move could happen https://t.co/gY0aDb2jsQ https://t.co/KPBBCgQ2xy,PCLN,POS,post,Stock Affairs,Stock Price Movement,Internet Content & Information
 17840,$FB I've been dead on so far. Such a bloated valuation. https://t.co/czCf8Kbrlt,FB,NEG,post,Financial Affairs,Other Financial Affairs,Internet Content & Information
-17845,$TSLA recall model X https://t.co/b7izYa4BuE,TSLA,NEG,post,Other,Other,Auto Manufacturers
-17851,"$TSLA Recalls 2,700 Model X Vehicles; Shares Volatile https://t.co/tcKqZnMIqX #TSLA #tech #stockmarket https://t.co/FeMhJtAmQj",TSLA,NEG,post,Other,Other,Auto Manufacturers
-17856,Breaking: Tesla recalls all Model X cars  .. details on show now $TSLA,TSLA,NEG,post,Other,Other,Auto Manufacturers
+17845,$TSLA recall model X https://t.co/b7izYa4BuE,TSLA,NEG,post,Business Operations,Product Dynamics,Auto Manufacturers
+17851,"$TSLA Recalls 2,700 Model X Vehicles; Shares Volatile https://t.co/tcKqZnMIqX #TSLA #tech #stockmarket https://t.co/FeMhJtAmQj",TSLA,NEG,post,Business Operations,Product Dynamics,Auto Manufacturers
+17856,Breaking: Tesla recalls all Model X cars  .. details on show now $TSLA,TSLA,NEG,post,Business Operations,Product Dynamics,Auto Manufacturers
 17858,"$QCOM The indicator RSI is over 50, which stands at 56.1, an upward movement is expected. https://t.co/yfa9jcUsQa",QCOM,POS,post,Stock Affairs,Stock Price Movement,Semiconductors
 17866,Supermarket Stocks Rally as Tesco Plans to Axe Non-core UK Assets $TSCO https://t.co/BmvhcrwREA,TSCO,POS,post,Stock Affairs,Stock Price Movement,Specialty Retail
-17869,$TRIP maintains Neutral rating at JP Morgan- PT cut $61 from $66,TRIP,NEG,post,Other,Other,Travel Services
+17869,$TRIP maintains Neutral rating at JP Morgan- PT cut $61 from $66,TRIP,NEG,post,Stock Affairs,Other Stock Affairs,Travel Services
 17903,Why Alphabet Inc was just upgraded to buy https://t.co/dEVnLKhqtZ $GOOGL,GOOGL,POS,post,Stock Affairs,Other Stock Affairs,Internet Content & Information
 17909,@NASDboy I think the DNF crew can get this $NFLX short into the next 30 days heading into earnings,NFLX,NEG,post,Stock Affairs,Stock Price Movement,Entertainment
 17925,Added more $BBBY @jimcramer is wrong about this one. Still a very profitable merchant with profitable stores,BBBY,POS,post,Stock Affairs,Stock Price Movement,Specialty Retail
@@ -1171,4 +1171,4 @@ _id,Sentence,Company,Sentiment,Type,Coarse-Grained Event,Fine-Grained Event,Indu
 17994,Pivotal Research upgrading $GOOGL to buy.  https://t.co/LSahepdqhD    #stocktrading,GOOGL,POS,post,Stock Affairs,Other Stock Affairs,Internet Content & Information
 18003,Most bullish stocks on Twitter during this dip. $YHOO $GDX $GOOGL $STZ $GOLD $EW $VZ $CELG $SBUX $SCTY more: https://t.co/iuZJelfwt3,YHOO,POS,post,Stock Affairs,Stock Price Movement,Internet Content & Information
 18010,$TSLA <STUDY the CHARTS> Pullback_Time https://t.co/ZMDG0fb3I7,TSLA,NEG,post,Stock Affairs,Stock Price Movement,Auto Manufacturers
-18011,#Tesla Model S deliveries are up 35% in Germany - record deliveries in March [Chart] https://t.co/yCnClcBImV  $TSLA,TSLA,POS,post,Business Operations,"Sales, Market Share Changes",Auto Manufacturers
+18011,#Tesla Model S deliveries are up 35% in Germany - record deliveries in March [Chart] https://t.co/yCnClcBImV  $TSLA,TSLA,POS,post,Financial Affairs,Other Financial Affairs,Auto Manufacturers
