@@ -1,0 +1,15 @@
+fine_tuned_model/checkpoint-177 filter=lfs diff=lfs merge=lfs -text
+fine_tuned_model/best_model filter=lfs diff=lfs merge=lfs -text
+fine_tuned_model/best_model/special_tokens_map.json filter=lfs diff=lfs merge=lfs -text
+fine_tuned_model/best_model/tokenizer_config.json filter=lfs diff=lfs merge=lfs -text
+fine_tuned_model/best_model/training_args.bin filter=lfs diff=lfs merge=lfs -text
+fine_tuned_model/best_model/vocab.txt filter=lfs diff=lfs merge=lfs -text
+fine_tuned_model/best_model/config.json filter=lfs diff=lfs merge=lfs -text
+fine_tuned_model/best_model/model.safetensors filter=lfs diff=lfs merge=lfs -text
+fine_tuned_model/checkpoint-177/training_args.bin filter=lfs diff=lfs merge=lfs -text
+fine_tuned_model/checkpoint-177/config.json filter=lfs diff=lfs merge=lfs -text
+fine_tuned_model/checkpoint-177/model.safetensors filter=lfs diff=lfs merge=lfs -text
+fine_tuned_model/checkpoint-177/optimizer.pt filter=lfs diff=lfs merge=lfs -text
+fine_tuned_model/checkpoint-177/rng_state.pth filter=lfs diff=lfs merge=lfs -text
+fine_tuned_model/checkpoint-177/scheduler.pt filter=lfs diff=lfs merge=lfs -text
+fine_tuned_model/checkpoint-177/trainer_state.json filter=lfs diff=lfs merge=lfs -text
