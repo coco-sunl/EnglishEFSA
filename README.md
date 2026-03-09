@@ -4,8 +4,6 @@ A five-hop Chain-of-Thought framework for extracting granular, event-level senti
 
 [Read the Paper](https://github.com/coco-sunl/EnglishEFSA/blob/main/EFSA_Paper.pdf)
 
----
-
 ## Overview
 
 Traditional financial sentiment analysis assigns sentiment to entire documents, obscuring the distinct impact of individual corporate events. This project extends the EFSA framework (Chen et al., 2024) to English financial texts by extracting structured quintuples of the form:
@@ -15,8 +13,6 @@ Traditional financial sentiment analysis assigns sentiment to entire documents, 
 For example, given the headline *"AstraZeneca Explores Potential Deal With Acerta for Cancer Drug"*, the system extracts:
 > (AstraZeneca, Pharmaceuticals, Business Operations, Initiating Cooperation, POS)
 
----
-
 ## Dataset
 
 - **Source:** FiQA-2018 Challenge dataset (Task 1) — 1,173 instances of financial news headlines and tweets
@@ -25,8 +21,6 @@ For example, given the headline *"AstraZeneca Explores Potential Deal With Acert
   - Enriched with GICS industry classifications via the yfinance API
   - Mapped to a hierarchical event taxonomy (7 coarse-grained, 34 fine-grained event classes)
 - **Split:** 822 train / 234 test / 117 validation
-
----
 
 ## Approach
 
@@ -49,8 +43,6 @@ Evaluated across four configurations: Zero-Shot, Few-Shot, LoRA-Tuned, and LoRA-
 - 4-bit quantization, r=8, alpha=16, dropout=0.1
 - Targets: `q_proj` and `v_proj` layers
 
----
-
 ## Results
 
 | Task | LoRA-Tuned (Weighted F1) |
@@ -64,15 +56,11 @@ Evaluated across four configurations: Zero-Shot, Few-Shot, LoRA-Tuned, and LoRA-
 
 The LoRA-tuned model substantially outperforms fine-tuned DistilRoBERTa (0.77 F1) on sentiment classification. Complete EFSA performance (0.39 F1) reflects error propagation across the sequential reasoning chain.
 
----
-
 ## Key Findings
 
 - LoRA fine-tuning is highly effective for financial domain adaptation with limited data
 - Zero-shot prompting outperforms few-shot for instruction-following models like Mistral-7B
 - Each additional reasoning hop introduces ~15% performance degradation due to error propagation
-
----
 
 ## Tech Stack
 
@@ -80,8 +68,6 @@ The LoRA-tuned model substantially outperforms fine-tuned DistilRoBERTa (0.77 F1
 - Mistral-7B-Instruct-v0.3, DistilRoBERTa
 - PEFT (LoRA), BitsAndBytes (4-bit quantization)
 - scikit-learn, yfinance
-
----
 
 ## Authors
 
